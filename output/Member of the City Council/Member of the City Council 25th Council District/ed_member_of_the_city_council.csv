@@ -1,0 +1,540 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    3,0.00%,Shekar Krishnan,(Democratic),74,AD 30,2025-11-04_22:11:07.615996
+ED    3,0.00%,Ramses S. Frias,(Republican),26,AD 30,2025-11-04_22:11:07.615996
+ED    3,0.00%,Ramses S. Frias,(Conservative),-,AD 30,2025-11-04_22:11:07.615996
+ED    3,0.00%,Shekar Krishnan,(Working Families),28,AD 30,2025-11-04_22:11:07.615996
+ED    3,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),11,AD 30,2025-11-04_22:11:07.615996
+ED    3,0.00%,Shah S. Haque,(Asians United),5,AD 30,2025-11-04_22:11:07.615996
+ED    3,0.00%,WRITE-IN,&nbsp,1,AD 30,2025-11-04_22:11:07.615996
+ED    4,0.00%,Shekar Krishnan,(Democratic),243,AD 30,2025-11-04_22:11:07.615996
+ED    4,0.00%,Ramses S. Frias,(Republican),64,AD 30,2025-11-04_22:11:07.615996
+ED    4,0.00%,Ramses S. Frias,(Conservative),5,AD 30,2025-11-04_22:11:07.615996
+ED    4,0.00%,Shekar Krishnan,(Working Families),18,AD 30,2025-11-04_22:11:07.615996
+ED    4,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),16,AD 30,2025-11-04_22:11:07.615996
+ED    4,0.00%,Shah S. Haque,(Asians United),33,AD 30,2025-11-04_22:11:07.615996
+ED    4,0.00%,WRITE-IN,&nbsp,1,AD 30,2025-11-04_22:11:07.615996
+ED   14,0.00%,Shekar Krishnan,(Democratic),45,AD 30,2025-11-04_22:11:07.615996
+ED   14,0.00%,Ramses S. Frias,(Republican),18,AD 30,2025-11-04_22:11:07.615996
+ED   14,0.00%,Ramses S. Frias,(Conservative),4,AD 30,2025-11-04_22:11:07.615996
+ED   14,0.00%,Shekar Krishnan,(Working Families),4,AD 30,2025-11-04_22:11:07.615996
+ED   14,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),2,AD 30,2025-11-04_22:11:07.615996
+ED   14,0.00%,Shah S. Haque,(Asians United),2,AD 30,2025-11-04_22:11:07.615996
+ED   14,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   15,0.00%,Shekar Krishnan,(Democratic),223,AD 30,2025-11-04_22:11:07.615996
+ED   15,0.00%,Ramses S. Frias,(Republican),55,AD 30,2025-11-04_22:11:07.615996
+ED   15,0.00%,Ramses S. Frias,(Conservative),8,AD 30,2025-11-04_22:11:07.615996
+ED   15,0.00%,Shekar Krishnan,(Working Families),37,AD 30,2025-11-04_22:11:07.615996
+ED   15,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),11,AD 30,2025-11-04_22:11:07.615996
+ED   15,0.00%,Shah S. Haque,(Asians United),16,AD 30,2025-11-04_22:11:07.615996
+ED   15,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   19,0.00%,Shekar Krishnan,(Democratic),289,AD 30,2025-11-04_22:11:07.615996
+ED   19,0.00%,Ramses S. Frias,(Republican),47,AD 30,2025-11-04_22:11:07.615996
+ED   19,0.00%,Ramses S. Frias,(Conservative),9,AD 30,2025-11-04_22:11:07.615996
+ED   19,0.00%,Shekar Krishnan,(Working Families),34,AD 30,2025-11-04_22:11:07.615996
+ED   19,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),15,AD 30,2025-11-04_22:11:07.615996
+ED   19,0.00%,Shah S. Haque,(Asians United),22,AD 30,2025-11-04_22:11:07.615996
+ED   19,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   35,0.00%,Shekar Krishnan,(Democratic),325,AD 30,2025-11-04_22:11:07.615996
+ED   35,0.00%,Ramses S. Frias,(Republican),148,AD 30,2025-11-04_22:11:07.615996
+ED   35,0.00%,Ramses S. Frias,(Conservative),9,AD 30,2025-11-04_22:11:07.615996
+ED   35,0.00%,Shekar Krishnan,(Working Families),52,AD 30,2025-11-04_22:11:07.615996
+ED   35,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),17,AD 30,2025-11-04_22:11:07.615996
+ED   35,0.00%,Shah S. Haque,(Asians United),20,AD 30,2025-11-04_22:11:07.615996
+ED   35,0.00%,WRITE-IN,&nbsp,4,AD 30,2025-11-04_22:11:07.615996
+ED   36,0.00%,Shekar Krishnan,(Democratic),348,AD 30,2025-11-04_22:11:07.615996
+ED   36,0.00%,Ramses S. Frias,(Republican),161,AD 30,2025-11-04_22:11:07.615996
+ED   36,0.00%,Ramses S. Frias,(Conservative),15,AD 30,2025-11-04_22:11:07.615996
+ED   36,0.00%,Shekar Krishnan,(Working Families),25,AD 30,2025-11-04_22:11:07.615996
+ED   36,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),41,AD 30,2025-11-04_22:11:07.615996
+ED   36,0.00%,Shah S. Haque,(Asians United),20,AD 30,2025-11-04_22:11:07.615996
+ED   36,0.00%,WRITE-IN,&nbsp,2,AD 30,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shekar Krishnan,(Democratic),220,AD 30,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ramses S. Frias,(Republican),83,AD 30,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ramses S. Frias,(Conservative),9,AD 30,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shekar Krishnan,(Working Families),25,AD 30,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),20,AD 30,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shah S. Haque,(Asians United),38,AD 30,2025-11-04_22:11:07.615996
+ED   37,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shekar Krishnan,(Democratic),284,AD 30,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ramses S. Frias,(Republican),87,AD 30,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ramses S. Frias,(Conservative),7,AD 30,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shekar Krishnan,(Working Families),29,AD 30,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),11,AD 30,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shah S. Haque,(Asians United),20,AD 30,2025-11-04_22:11:07.615996
+ED   38,0.00%,WRITE-IN,&nbsp,2,AD 30,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shekar Krishnan,(Democratic),243,AD 30,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ramses S. Frias,(Republican),104,AD 30,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ramses S. Frias,(Conservative),8,AD 30,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shekar Krishnan,(Working Families),30,AD 30,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),19,AD 30,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shah S. Haque,(Asians United),30,AD 30,2025-11-04_22:11:07.615996
+ED   39,0.00%,WRITE-IN,&nbsp,2,AD 30,2025-11-04_22:11:07.615996
+ED   40,0.00%,Shekar Krishnan,(Democratic),235,AD 30,2025-11-04_22:11:07.615996
+ED   40,0.00%,Ramses S. Frias,(Republican),49,AD 30,2025-11-04_22:11:07.615996
+ED   40,0.00%,Ramses S. Frias,(Conservative),2,AD 30,2025-11-04_22:11:07.615996
+ED   40,0.00%,Shekar Krishnan,(Working Families),37,AD 30,2025-11-04_22:11:07.615996
+ED   40,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),21,AD 30,2025-11-04_22:11:07.615996
+ED   40,0.00%,Shah S. Haque,(Asians United),9,AD 30,2025-11-04_22:11:07.615996
+ED   40,0.00%,WRITE-IN,&nbsp,1,AD 30,2025-11-04_22:11:07.615996
+ED   41,0.00%,Shekar Krishnan,(Democratic),307,AD 30,2025-11-04_22:11:07.615996
+ED   41,0.00%,Ramses S. Frias,(Republican),114,AD 30,2025-11-04_22:11:07.615996
+ED   41,0.00%,Ramses S. Frias,(Conservative),14,AD 30,2025-11-04_22:11:07.615996
+ED   41,0.00%,Shekar Krishnan,(Working Families),56,AD 30,2025-11-04_22:11:07.615996
+ED   41,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),24,AD 30,2025-11-04_22:11:07.615996
+ED   41,0.00%,Shah S. Haque,(Asians United),27,AD 30,2025-11-04_22:11:07.615996
+ED   41,0.00%,WRITE-IN,&nbsp,1,AD 30,2025-11-04_22:11:07.615996
+ED   42,0.00%,Shekar Krishnan,(Democratic),303,AD 30,2025-11-04_22:11:07.615996
+ED   42,0.00%,Ramses S. Frias,(Republican),42,AD 30,2025-11-04_22:11:07.615996
+ED   42,0.00%,Ramses S. Frias,(Conservative),4,AD 30,2025-11-04_22:11:07.615996
+ED   42,0.00%,Shekar Krishnan,(Working Families),40,AD 30,2025-11-04_22:11:07.615996
+ED   42,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),13,AD 30,2025-11-04_22:11:07.615996
+ED   42,0.00%,Shah S. Haque,(Asians United),52,AD 30,2025-11-04_22:11:07.615996
+ED   42,0.00%,WRITE-IN,&nbsp,2,AD 30,2025-11-04_22:11:07.615996
+ED   43,0.00%,Shekar Krishnan,(Democratic),141,AD 30,2025-11-04_22:11:07.615996
+ED   43,0.00%,Ramses S. Frias,(Republican),45,AD 30,2025-11-04_22:11:07.615996
+ED   43,0.00%,Ramses S. Frias,(Conservative),6,AD 30,2025-11-04_22:11:07.615996
+ED   43,0.00%,Shekar Krishnan,(Working Families),52,AD 30,2025-11-04_22:11:07.615996
+ED   43,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),10,AD 30,2025-11-04_22:11:07.615996
+ED   43,0.00%,Shah S. Haque,(Asians United),15,AD 30,2025-11-04_22:11:07.615996
+ED   43,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   45,0.00%,Shekar Krishnan,(Democratic),338,AD 30,2025-11-04_22:11:07.615996
+ED   45,0.00%,Ramses S. Frias,(Republican),60,AD 30,2025-11-04_22:11:07.615996
+ED   45,0.00%,Ramses S. Frias,(Conservative),6,AD 30,2025-11-04_22:11:07.615996
+ED   45,0.00%,Shekar Krishnan,(Working Families),61,AD 30,2025-11-04_22:11:07.615996
+ED   45,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),28,AD 30,2025-11-04_22:11:07.615996
+ED   45,0.00%,Shah S. Haque,(Asians United),45,AD 30,2025-11-04_22:11:07.615996
+ED   45,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   46,0.00%,Shekar Krishnan,(Democratic),323,AD 30,2025-11-04_22:11:07.615996
+ED   46,0.00%,Ramses S. Frias,(Republican),75,AD 30,2025-11-04_22:11:07.615996
+ED   46,0.00%,Ramses S. Frias,(Conservative),6,AD 30,2025-11-04_22:11:07.615996
+ED   46,0.00%,Shekar Krishnan,(Working Families),49,AD 30,2025-11-04_22:11:07.615996
+ED   46,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),27,AD 30,2025-11-04_22:11:07.615996
+ED   46,0.00%,Shah S. Haque,(Asians United),49,AD 30,2025-11-04_22:11:07.615996
+ED   46,0.00%,WRITE-IN,&nbsp,7,AD 30,2025-11-04_22:11:07.615996
+ED   47,0.00%,Shekar Krishnan,(Democratic),84,AD 30,2025-11-04_22:11:07.615996
+ED   47,0.00%,Ramses S. Frias,(Republican),21,AD 30,2025-11-04_22:11:07.615996
+ED   47,0.00%,Ramses S. Frias,(Conservative),2,AD 30,2025-11-04_22:11:07.615996
+ED   47,0.00%,Shekar Krishnan,(Working Families),22,AD 30,2025-11-04_22:11:07.615996
+ED   47,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),12,AD 30,2025-11-04_22:11:07.615996
+ED   47,0.00%,Shah S. Haque,(Asians United),3,AD 30,2025-11-04_22:11:07.615996
+ED   47,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   48,0.00%,Shekar Krishnan,(Democratic),155,AD 30,2025-11-04_22:11:07.615996
+ED   48,0.00%,Ramses S. Frias,(Republican),63,AD 30,2025-11-04_22:11:07.615996
+ED   48,0.00%,Ramses S. Frias,(Conservative),7,AD 30,2025-11-04_22:11:07.615996
+ED   48,0.00%,Shekar Krishnan,(Working Families),30,AD 30,2025-11-04_22:11:07.615996
+ED   48,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),18,AD 30,2025-11-04_22:11:07.615996
+ED   48,0.00%,Shah S. Haque,(Asians United),20,AD 30,2025-11-04_22:11:07.615996
+ED   48,0.00%,WRITE-IN,&nbsp,1,AD 30,2025-11-04_22:11:07.615996
+ED   52,0.00%,Shekar Krishnan,(Democratic),200,AD 30,2025-11-04_22:11:07.615996
+ED   52,0.00%,Ramses S. Frias,(Republican),61,AD 30,2025-11-04_22:11:07.615996
+ED   52,0.00%,Ramses S. Frias,(Conservative),5,AD 30,2025-11-04_22:11:07.615996
+ED   52,0.00%,Shekar Krishnan,(Working Families),28,AD 30,2025-11-04_22:11:07.615996
+ED   52,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),16,AD 30,2025-11-04_22:11:07.615996
+ED   52,0.00%,Shah S. Haque,(Asians United),17,AD 30,2025-11-04_22:11:07.615996
+ED   52,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   53,0.00%,Shekar Krishnan,(Democratic),182,AD 30,2025-11-04_22:11:07.615996
+ED   53,0.00%,Ramses S. Frias,(Republican),80,AD 30,2025-11-04_22:11:07.615996
+ED   53,0.00%,Ramses S. Frias,(Conservative),5,AD 30,2025-11-04_22:11:07.615996
+ED   53,0.00%,Shekar Krishnan,(Working Families),37,AD 30,2025-11-04_22:11:07.615996
+ED   53,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),12,AD 30,2025-11-04_22:11:07.615996
+ED   53,0.00%,Shah S. Haque,(Asians United),15,AD 30,2025-11-04_22:11:07.615996
+ED   53,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+ED   57,0.00%,Shekar Krishnan,(Democratic),-,AD 30,2025-11-04_22:11:07.615996
+ED   57,0.00%,Ramses S. Frias,(Republican),-,AD 30,2025-11-04_22:11:07.615996
+ED   57,0.00%,Ramses S. Frias,(Conservative),-,AD 30,2025-11-04_22:11:07.615996
+ED   57,0.00%,Shekar Krishnan,(Working Families),-,AD 30,2025-11-04_22:11:07.615996
+ED   57,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),-,AD 30,2025-11-04_22:11:07.615996
+ED   57,0.00%,Shah S. Haque,(Asians United),-,AD 30,2025-11-04_22:11:07.615996
+ED   57,0.00%,WRITE-IN,&nbsp,-,AD 30,2025-11-04_22:11:07.615996
+Total,,Shekar Krishnan,(Democratic),4562,AD 30,2025-11-04_22:11:07.615996
+Total,,Ramses S. Frias,(Republican),1403,AD 30,2025-11-04_22:11:07.615996
+Total,,Ramses S. Frias,(Conservative),131,AD 30,2025-11-04_22:11:07.615996
+Total,,Shekar Krishnan,(Working Families),694,AD 30,2025-11-04_22:11:07.615996
+Total,,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),344,AD 30,2025-11-04_22:11:07.615996
+Total,,Shah S. Haque,(Asians United),458,AD 30,2025-11-04_22:11:07.615996
+Total,,WRITE-IN,&nbsp,24,AD 30,2025-11-04_22:11:07.615996
+ED   29,0.00%,Shekar Krishnan,(Democratic),197,AD 34,2025-11-04_22:11:07.615996
+ED   29,0.00%,Ramses S. Frias,(Republican),96,AD 34,2025-11-04_22:11:07.615996
+ED   29,0.00%,Ramses S. Frias,(Conservative),6,AD 34,2025-11-04_22:11:07.615996
+ED   29,0.00%,Shekar Krishnan,(Working Families),21,AD 34,2025-11-04_22:11:07.615996
+ED   29,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),25,AD 34,2025-11-04_22:11:07.615996
+ED   29,0.00%,Shah S. Haque,(Asians United),18,AD 34,2025-11-04_22:11:07.615996
+ED   29,0.00%,WRITE-IN,&nbsp,2,AD 34,2025-11-04_22:11:07.615996
+ED   31,0.00%,Shekar Krishnan,(Democratic),328,AD 34,2025-11-04_22:11:07.615996
+ED   31,0.00%,Ramses S. Frias,(Republican),132,AD 34,2025-11-04_22:11:07.615996
+ED   31,0.00%,Ramses S. Frias,(Conservative),7,AD 34,2025-11-04_22:11:07.615996
+ED   31,0.00%,Shekar Krishnan,(Working Families),35,AD 34,2025-11-04_22:11:07.615996
+ED   31,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),22,AD 34,2025-11-04_22:11:07.615996
+ED   31,0.00%,Shah S. Haque,(Asians United),48,AD 34,2025-11-04_22:11:07.615996
+ED   31,0.00%,WRITE-IN,&nbsp,2,AD 34,2025-11-04_22:11:07.615996
+ED   32,0.00%,Shekar Krishnan,(Democratic),201,AD 34,2025-11-04_22:11:07.615996
+ED   32,0.00%,Ramses S. Frias,(Republican),76,AD 34,2025-11-04_22:11:07.615996
+ED   32,0.00%,Ramses S. Frias,(Conservative),9,AD 34,2025-11-04_22:11:07.615996
+ED   32,0.00%,Shekar Krishnan,(Working Families),10,AD 34,2025-11-04_22:11:07.615996
+ED   32,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),19,AD 34,2025-11-04_22:11:07.615996
+ED   32,0.00%,Shah S. Haque,(Asians United),18,AD 34,2025-11-04_22:11:07.615996
+ED   32,0.00%,WRITE-IN,&nbsp,2,AD 34,2025-11-04_22:11:07.615996
+ED   34,0.00%,Shekar Krishnan,(Democratic),269,AD 34,2025-11-04_22:11:07.615996
+ED   34,0.00%,Ramses S. Frias,(Republican),78,AD 34,2025-11-04_22:11:07.615996
+ED   34,0.00%,Ramses S. Frias,(Conservative),5,AD 34,2025-11-04_22:11:07.615996
+ED   34,0.00%,Shekar Krishnan,(Working Families),31,AD 34,2025-11-04_22:11:07.615996
+ED   34,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),31,AD 34,2025-11-04_22:11:07.615996
+ED   34,0.00%,Shah S. Haque,(Asians United),10,AD 34,2025-11-04_22:11:07.615996
+ED   34,0.00%,WRITE-IN,&nbsp,-,AD 34,2025-11-04_22:11:07.615996
+ED   36,0.00%,Shekar Krishnan,(Democratic),364,AD 34,2025-11-04_22:11:07.615996
+ED   36,0.00%,Ramses S. Frias,(Republican),118,AD 34,2025-11-04_22:11:07.615996
+ED   36,0.00%,Ramses S. Frias,(Conservative),12,AD 34,2025-11-04_22:11:07.615996
+ED   36,0.00%,Shekar Krishnan,(Working Families),51,AD 34,2025-11-04_22:11:07.615996
+ED   36,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),21,AD 34,2025-11-04_22:11:07.615996
+ED   36,0.00%,Shah S. Haque,(Asians United),35,AD 34,2025-11-04_22:11:07.615996
+ED   36,0.00%,WRITE-IN,&nbsp,1,AD 34,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shekar Krishnan,(Democratic),178,AD 34,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ramses S. Frias,(Republican),60,AD 34,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ramses S. Frias,(Conservative),8,AD 34,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shekar Krishnan,(Working Families),13,AD 34,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),14,AD 34,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shah S. Haque,(Asians United),14,AD 34,2025-11-04_22:11:07.615996
+ED   37,0.00%,WRITE-IN,&nbsp,1,AD 34,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shekar Krishnan,(Democratic),69,AD 34,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ramses S. Frias,(Republican),18,AD 34,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ramses S. Frias,(Conservative),-,AD 34,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shekar Krishnan,(Working Families),8,AD 34,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),9,AD 34,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shah S. Haque,(Asians United),3,AD 34,2025-11-04_22:11:07.615996
+ED   38,0.00%,WRITE-IN,&nbsp,-,AD 34,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shekar Krishnan,(Democratic),382,AD 34,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ramses S. Frias,(Republican),92,AD 34,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ramses S. Frias,(Conservative),11,AD 34,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shekar Krishnan,(Working Families),77,AD 34,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),42,AD 34,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shah S. Haque,(Asians United),5,AD 34,2025-11-04_22:11:07.615996
+ED   39,0.00%,WRITE-IN,&nbsp,-,AD 34,2025-11-04_22:11:07.615996
+ED   40,0.00%,Shekar Krishnan,(Democratic),194,AD 34,2025-11-04_22:11:07.615996
+ED   40,0.00%,Ramses S. Frias,(Republican),78,AD 34,2025-11-04_22:11:07.615996
+ED   40,0.00%,Ramses S. Frias,(Conservative),9,AD 34,2025-11-04_22:11:07.615996
+ED   40,0.00%,Shekar Krishnan,(Working Families),20,AD 34,2025-11-04_22:11:07.615996
+ED   40,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),20,AD 34,2025-11-04_22:11:07.615996
+ED   40,0.00%,Shah S. Haque,(Asians United),6,AD 34,2025-11-04_22:11:07.615996
+ED   40,0.00%,WRITE-IN,&nbsp,1,AD 34,2025-11-04_22:11:07.615996
+ED   41,0.00%,Shekar Krishnan,(Democratic),344,AD 34,2025-11-04_22:11:07.615996
+ED   41,0.00%,Ramses S. Frias,(Republican),135,AD 34,2025-11-04_22:11:07.615996
+ED   41,0.00%,Ramses S. Frias,(Conservative),10,AD 34,2025-11-04_22:11:07.615996
+ED   41,0.00%,Shekar Krishnan,(Working Families),104,AD 34,2025-11-04_22:11:07.615996
+ED   41,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),45,AD 34,2025-11-04_22:11:07.615996
+ED   41,0.00%,Shah S. Haque,(Asians United),9,AD 34,2025-11-04_22:11:07.615996
+ED   41,0.00%,WRITE-IN,&nbsp,4,AD 34,2025-11-04_22:11:07.615996
+ED   42,0.00%,Shekar Krishnan,(Democratic),251,AD 34,2025-11-04_22:11:07.615996
+ED   42,0.00%,Ramses S. Frias,(Republican),100,AD 34,2025-11-04_22:11:07.615996
+ED   42,0.00%,Ramses S. Frias,(Conservative),10,AD 34,2025-11-04_22:11:07.615996
+ED   42,0.00%,Shekar Krishnan,(Working Families),46,AD 34,2025-11-04_22:11:07.615996
+ED   42,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),41,AD 34,2025-11-04_22:11:07.615996
+ED   42,0.00%,Shah S. Haque,(Asians United),6,AD 34,2025-11-04_22:11:07.615996
+ED   42,0.00%,WRITE-IN,&nbsp,2,AD 34,2025-11-04_22:11:07.615996
+ED   43,0.00%,Shekar Krishnan,(Democratic),250,AD 34,2025-11-04_22:11:07.615996
+ED   43,0.00%,Ramses S. Frias,(Republican),85,AD 34,2025-11-04_22:11:07.615996
+ED   43,0.00%,Ramses S. Frias,(Conservative),8,AD 34,2025-11-04_22:11:07.615996
+ED   43,0.00%,Shekar Krishnan,(Working Families),46,AD 34,2025-11-04_22:11:07.615996
+ED   43,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),37,AD 34,2025-11-04_22:11:07.615996
+ED   43,0.00%,Shah S. Haque,(Asians United),6,AD 34,2025-11-04_22:11:07.615996
+ED   43,0.00%,WRITE-IN,&nbsp,-,AD 34,2025-11-04_22:11:07.615996
+ED   44,0.00%,Shekar Krishnan,(Democratic),280,AD 34,2025-11-04_22:11:07.615996
+ED   44,0.00%,Ramses S. Frias,(Republican),99,AD 34,2025-11-04_22:11:07.615996
+ED   44,0.00%,Ramses S. Frias,(Conservative),9,AD 34,2025-11-04_22:11:07.615996
+ED   44,0.00%,Shekar Krishnan,(Working Families),35,AD 34,2025-11-04_22:11:07.615996
+ED   44,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),48,AD 34,2025-11-04_22:11:07.615996
+ED   44,0.00%,Shah S. Haque,(Asians United),10,AD 34,2025-11-04_22:11:07.615996
+ED   44,0.00%,WRITE-IN,&nbsp,-,AD 34,2025-11-04_22:11:07.615996
+ED   45,0.00%,Shekar Krishnan,(Democratic),119,AD 34,2025-11-04_22:11:07.615996
+ED   45,0.00%,Ramses S. Frias,(Republican),38,AD 34,2025-11-04_22:11:07.615996
+ED   45,0.00%,Ramses S. Frias,(Conservative),1,AD 34,2025-11-04_22:11:07.615996
+ED   45,0.00%,Shekar Krishnan,(Working Families),22,AD 34,2025-11-04_22:11:07.615996
+ED   45,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),20,AD 34,2025-11-04_22:11:07.615996
+ED   45,0.00%,Shah S. Haque,(Asians United),5,AD 34,2025-11-04_22:11:07.615996
+ED   45,0.00%,WRITE-IN,&nbsp,1,AD 34,2025-11-04_22:11:07.615996
+ED   46,0.00%,Shekar Krishnan,(Democratic),347,AD 34,2025-11-04_22:11:07.615996
+ED   46,0.00%,Ramses S. Frias,(Republican),131,AD 34,2025-11-04_22:11:07.615996
+ED   46,0.00%,Ramses S. Frias,(Conservative),12,AD 34,2025-11-04_22:11:07.615996
+ED   46,0.00%,Shekar Krishnan,(Working Families),69,AD 34,2025-11-04_22:11:07.615996
+ED   46,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),69,AD 34,2025-11-04_22:11:07.615996
+ED   46,0.00%,Shah S. Haque,(Asians United),6,AD 34,2025-11-04_22:11:07.615996
+ED   46,0.00%,WRITE-IN,&nbsp,1,AD 34,2025-11-04_22:11:07.615996
+ED   47,0.00%,Shekar Krishnan,(Democratic),316,AD 34,2025-11-04_22:11:07.615996
+ED   47,0.00%,Ramses S. Frias,(Republican),150,AD 34,2025-11-04_22:11:07.615996
+ED   47,0.00%,Ramses S. Frias,(Conservative),12,AD 34,2025-11-04_22:11:07.615996
+ED   47,0.00%,Shekar Krishnan,(Working Families),43,AD 34,2025-11-04_22:11:07.615996
+ED   47,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),41,AD 34,2025-11-04_22:11:07.615996
+ED   47,0.00%,Shah S. Haque,(Asians United),6,AD 34,2025-11-04_22:11:07.615996
+ED   47,0.00%,WRITE-IN,&nbsp,1,AD 34,2025-11-04_22:11:07.615996
+ED   48,0.00%,Shekar Krishnan,(Democratic),197,AD 34,2025-11-04_22:11:07.615996
+ED   48,0.00%,Ramses S. Frias,(Republican),57,AD 34,2025-11-04_22:11:07.615996
+ED   48,0.00%,Ramses S. Frias,(Conservative),6,AD 34,2025-11-04_22:11:07.615996
+ED   48,0.00%,Shekar Krishnan,(Working Families),40,AD 34,2025-11-04_22:11:07.615996
+ED   48,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),42,AD 34,2025-11-04_22:11:07.615996
+ED   48,0.00%,Shah S. Haque,(Asians United),5,AD 34,2025-11-04_22:11:07.615996
+ED   48,0.00%,WRITE-IN,&nbsp,1,AD 34,2025-11-04_22:11:07.615996
+ED   49,0.00%,Shekar Krishnan,(Democratic),356,AD 34,2025-11-04_22:11:07.615996
+ED   49,0.00%,Ramses S. Frias,(Republican),113,AD 34,2025-11-04_22:11:07.615996
+ED   49,0.00%,Ramses S. Frias,(Conservative),15,AD 34,2025-11-04_22:11:07.615996
+ED   49,0.00%,Shekar Krishnan,(Working Families),81,AD 34,2025-11-04_22:11:07.615996
+ED   49,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),57,AD 34,2025-11-04_22:11:07.615996
+ED   49,0.00%,Shah S. Haque,(Asians United),9,AD 34,2025-11-04_22:11:07.615996
+ED   49,0.00%,WRITE-IN,&nbsp,4,AD 34,2025-11-04_22:11:07.615996
+ED   51,0.00%,Shekar Krishnan,(Democratic),312,AD 34,2025-11-04_22:11:07.615996
+ED   51,0.00%,Ramses S. Frias,(Republican),105,AD 34,2025-11-04_22:11:07.615996
+ED   51,0.00%,Ramses S. Frias,(Conservative),11,AD 34,2025-11-04_22:11:07.615996
+ED   51,0.00%,Shekar Krishnan,(Working Families),38,AD 34,2025-11-04_22:11:07.615996
+ED   51,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),32,AD 34,2025-11-04_22:11:07.615996
+ED   51,0.00%,Shah S. Haque,(Asians United),14,AD 34,2025-11-04_22:11:07.615996
+ED   51,0.00%,WRITE-IN,&nbsp,3,AD 34,2025-11-04_22:11:07.615996
+ED   53,0.00%,Shekar Krishnan,(Democratic),4,AD 34,2025-11-04_22:11:07.615996
+ED   53,0.00%,Ramses S. Frias,(Republican),-,AD 34,2025-11-04_22:11:07.615996
+ED   53,0.00%,Ramses S. Frias,(Conservative),-,AD 34,2025-11-04_22:11:07.615996
+ED   53,0.00%,Shekar Krishnan,(Working Families),1,AD 34,2025-11-04_22:11:07.615996
+ED   53,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),-,AD 34,2025-11-04_22:11:07.615996
+ED   53,0.00%,Shah S. Haque,(Asians United),-,AD 34,2025-11-04_22:11:07.615996
+ED   53,0.00%,WRITE-IN,&nbsp,-,AD 34,2025-11-04_22:11:07.615996
+Total,,Shekar Krishnan,(Democratic),4958,AD 34,2025-11-04_22:11:07.615996
+Total,,Ramses S. Frias,(Republican),1761,AD 34,2025-11-04_22:11:07.615996
+Total,,Ramses S. Frias,(Conservative),161,AD 34,2025-11-04_22:11:07.615996
+Total,,Shekar Krishnan,(Working Families),791,AD 34,2025-11-04_22:11:07.615996
+Total,,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),635,AD 34,2025-11-04_22:11:07.615996
+Total,,Shah S. Haque,(Asians United),233,AD 34,2025-11-04_22:11:07.615996
+Total,,WRITE-IN,&nbsp,26,AD 34,2025-11-04_22:11:07.615996
+ED   27,0.00%,Shekar Krishnan,(Democratic),76,AD 35,2025-11-04_22:11:07.615996
+ED   27,0.00%,Ramses S. Frias,(Republican),20,AD 35,2025-11-04_22:11:07.615996
+ED   27,0.00%,Ramses S. Frias,(Conservative),4,AD 35,2025-11-04_22:11:07.615996
+ED   27,0.00%,Shekar Krishnan,(Working Families),10,AD 35,2025-11-04_22:11:07.615996
+ED   27,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),5,AD 35,2025-11-04_22:11:07.615996
+ED   27,0.00%,Shah S. Haque,(Asians United),4,AD 35,2025-11-04_22:11:07.615996
+ED   27,0.00%,WRITE-IN,&nbsp,-,AD 35,2025-11-04_22:11:07.615996
+ED   29,0.00%,Shekar Krishnan,(Democratic),168,AD 35,2025-11-04_22:11:07.615996
+ED   29,0.00%,Ramses S. Frias,(Republican),50,AD 35,2025-11-04_22:11:07.615996
+ED   29,0.00%,Ramses S. Frias,(Conservative),3,AD 35,2025-11-04_22:11:07.615996
+ED   29,0.00%,Shekar Krishnan,(Working Families),15,AD 35,2025-11-04_22:11:07.615996
+ED   29,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),21,AD 35,2025-11-04_22:11:07.615996
+ED   29,0.00%,Shah S. Haque,(Asians United),3,AD 35,2025-11-04_22:11:07.615996
+ED   29,0.00%,WRITE-IN,&nbsp,-,AD 35,2025-11-04_22:11:07.615996
+ED   30,0.00%,Shekar Krishnan,(Democratic),312,AD 35,2025-11-04_22:11:07.615996
+ED   30,0.00%,Ramses S. Frias,(Republican),91,AD 35,2025-11-04_22:11:07.615996
+ED   30,0.00%,Ramses S. Frias,(Conservative),9,AD 35,2025-11-04_22:11:07.615996
+ED   30,0.00%,Shekar Krishnan,(Working Families),37,AD 35,2025-11-04_22:11:07.615996
+ED   30,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),21,AD 35,2025-11-04_22:11:07.615996
+ED   30,0.00%,Shah S. Haque,(Asians United),20,AD 35,2025-11-04_22:11:07.615996
+ED   30,0.00%,WRITE-IN,&nbsp,1,AD 35,2025-11-04_22:11:07.615996
+Total,,Shekar Krishnan,(Democratic),556,AD 35,2025-11-04_22:11:07.615996
+Total,,Ramses S. Frias,(Republican),161,AD 35,2025-11-04_22:11:07.615996
+Total,,Ramses S. Frias,(Conservative),16,AD 35,2025-11-04_22:11:07.615996
+Total,,Shekar Krishnan,(Working Families),62,AD 35,2025-11-04_22:11:07.615996
+Total,,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),47,AD 35,2025-11-04_22:11:07.615996
+Total,,Shah S. Haque,(Asians United),27,AD 35,2025-11-04_22:11:07.615996
+Total,,WRITE-IN,&nbsp,1,AD 35,2025-11-04_22:11:07.615996
+ED    1,0.00%,Shekar Krishnan,(Democratic),466,AD 39,2025-11-04_22:11:07.615996
+ED    1,0.00%,Ramses S. Frias,(Republican),130,AD 39,2025-11-04_22:11:07.615996
+ED    1,0.00%,Ramses S. Frias,(Conservative),14,AD 39,2025-11-04_22:11:07.615996
+ED    1,0.00%,Shekar Krishnan,(Working Families),135,AD 39,2025-11-04_22:11:07.615996
+ED    1,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),49,AD 39,2025-11-04_22:11:07.615996
+ED    1,0.00%,Shah S. Haque,(Asians United),14,AD 39,2025-11-04_22:11:07.615996
+ED    1,0.00%,WRITE-IN,&nbsp,7,AD 39,2025-11-04_22:11:07.615996
+ED    2,0.00%,Shekar Krishnan,(Democratic),491,AD 39,2025-11-04_22:11:07.615996
+ED    2,0.00%,Ramses S. Frias,(Republican),101,AD 39,2025-11-04_22:11:07.615996
+ED    2,0.00%,Ramses S. Frias,(Conservative),16,AD 39,2025-11-04_22:11:07.615996
+ED    2,0.00%,Shekar Krishnan,(Working Families),174,AD 39,2025-11-04_22:11:07.615996
+ED    2,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),75,AD 39,2025-11-04_22:11:07.615996
+ED    2,0.00%,Shah S. Haque,(Asians United),7,AD 39,2025-11-04_22:11:07.615996
+ED    2,0.00%,WRITE-IN,&nbsp,6,AD 39,2025-11-04_22:11:07.615996
+ED    3,0.00%,Shekar Krishnan,(Democratic),448,AD 39,2025-11-04_22:11:07.615996
+ED    3,0.00%,Ramses S. Frias,(Republican),120,AD 39,2025-11-04_22:11:07.615996
+ED    3,0.00%,Ramses S. Frias,(Conservative),14,AD 39,2025-11-04_22:11:07.615996
+ED    3,0.00%,Shekar Krishnan,(Working Families),91,AD 39,2025-11-04_22:11:07.615996
+ED    3,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),66,AD 39,2025-11-04_22:11:07.615996
+ED    3,0.00%,Shah S. Haque,(Asians United),17,AD 39,2025-11-04_22:11:07.615996
+ED    3,0.00%,WRITE-IN,&nbsp,4,AD 39,2025-11-04_22:11:07.615996
+ED    4,0.00%,Shekar Krishnan,(Democratic),216,AD 39,2025-11-04_22:11:07.615996
+ED    4,0.00%,Ramses S. Frias,(Republican),46,AD 39,2025-11-04_22:11:07.615996
+ED    4,0.00%,Ramses S. Frias,(Conservative),-,AD 39,2025-11-04_22:11:07.615996
+ED    4,0.00%,Shekar Krishnan,(Working Families),51,AD 39,2025-11-04_22:11:07.615996
+ED    4,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),14,AD 39,2025-11-04_22:11:07.615996
+ED    4,0.00%,Shah S. Haque,(Asians United),4,AD 39,2025-11-04_22:11:07.615996
+ED    4,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+ED    5,0.00%,Shekar Krishnan,(Democratic),376,AD 39,2025-11-04_22:11:07.615996
+ED    5,0.00%,Ramses S. Frias,(Republican),101,AD 39,2025-11-04_22:11:07.615996
+ED    5,0.00%,Ramses S. Frias,(Conservative),8,AD 39,2025-11-04_22:11:07.615996
+ED    5,0.00%,Shekar Krishnan,(Working Families),107,AD 39,2025-11-04_22:11:07.615996
+ED    5,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),39,AD 39,2025-11-04_22:11:07.615996
+ED    5,0.00%,Shah S. Haque,(Asians United),14,AD 39,2025-11-04_22:11:07.615996
+ED    5,0.00%,WRITE-IN,&nbsp,2,AD 39,2025-11-04_22:11:07.615996
+ED    6,0.00%,Shekar Krishnan,(Democratic),564,AD 39,2025-11-04_22:11:07.615996
+ED    6,0.00%,Ramses S. Frias,(Republican),101,AD 39,2025-11-04_22:11:07.615996
+ED    6,0.00%,Ramses S. Frias,(Conservative),11,AD 39,2025-11-04_22:11:07.615996
+ED    6,0.00%,Shekar Krishnan,(Working Families),196,AD 39,2025-11-04_22:11:07.615996
+ED    6,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),49,AD 39,2025-11-04_22:11:07.615996
+ED    6,0.00%,Shah S. Haque,(Asians United),8,AD 39,2025-11-04_22:11:07.615996
+ED    6,0.00%,WRITE-IN,&nbsp,2,AD 39,2025-11-04_22:11:07.615996
+ED    7,0.00%,Shekar Krishnan,(Democratic),459,AD 39,2025-11-04_22:11:07.615996
+ED    7,0.00%,Ramses S. Frias,(Republican),110,AD 39,2025-11-04_22:11:07.615996
+ED    7,0.00%,Ramses S. Frias,(Conservative),17,AD 39,2025-11-04_22:11:07.615996
+ED    7,0.00%,Shekar Krishnan,(Working Families),124,AD 39,2025-11-04_22:11:07.615996
+ED    7,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),52,AD 39,2025-11-04_22:11:07.615996
+ED    7,0.00%,Shah S. Haque,(Asians United),24,AD 39,2025-11-04_22:11:07.615996
+ED    7,0.00%,WRITE-IN,&nbsp,6,AD 39,2025-11-04_22:11:07.615996
+ED    8,0.00%,Shekar Krishnan,(Democratic),404,AD 39,2025-11-04_22:11:07.615996
+ED    8,0.00%,Ramses S. Frias,(Republican),112,AD 39,2025-11-04_22:11:07.615996
+ED    8,0.00%,Ramses S. Frias,(Conservative),15,AD 39,2025-11-04_22:11:07.615996
+ED    8,0.00%,Shekar Krishnan,(Working Families),112,AD 39,2025-11-04_22:11:07.615996
+ED    8,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),44,AD 39,2025-11-04_22:11:07.615996
+ED    8,0.00%,Shah S. Haque,(Asians United),14,AD 39,2025-11-04_22:11:07.615996
+ED    8,0.00%,WRITE-IN,&nbsp,3,AD 39,2025-11-04_22:11:07.615996
+ED    9,0.00%,Shekar Krishnan,(Democratic),378,AD 39,2025-11-04_22:11:07.615996
+ED    9,0.00%,Ramses S. Frias,(Republican),71,AD 39,2025-11-04_22:11:07.615996
+ED    9,0.00%,Ramses S. Frias,(Conservative),8,AD 39,2025-11-04_22:11:07.615996
+ED    9,0.00%,Shekar Krishnan,(Working Families),106,AD 39,2025-11-04_22:11:07.615996
+ED    9,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),35,AD 39,2025-11-04_22:11:07.615996
+ED    9,0.00%,Shah S. Haque,(Asians United),16,AD 39,2025-11-04_22:11:07.615996
+ED    9,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   10,0.00%,Shekar Krishnan,(Democratic),163,AD 39,2025-11-04_22:11:07.615996
+ED   10,0.00%,Ramses S. Frias,(Republican),48,AD 39,2025-11-04_22:11:07.615996
+ED   10,0.00%,Ramses S. Frias,(Conservative),2,AD 39,2025-11-04_22:11:07.615996
+ED   10,0.00%,Shekar Krishnan,(Working Families),34,AD 39,2025-11-04_22:11:07.615996
+ED   10,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),10,AD 39,2025-11-04_22:11:07.615996
+ED   10,0.00%,Shah S. Haque,(Asians United),4,AD 39,2025-11-04_22:11:07.615996
+ED   10,0.00%,WRITE-IN,&nbsp,2,AD 39,2025-11-04_22:11:07.615996
+ED   11,0.00%,Shekar Krishnan,(Democratic),24,AD 39,2025-11-04_22:11:07.615996
+ED   11,0.00%,Ramses S. Frias,(Republican),15,AD 39,2025-11-04_22:11:07.615996
+ED   11,0.00%,Ramses S. Frias,(Conservative),1,AD 39,2025-11-04_22:11:07.615996
+ED   11,0.00%,Shekar Krishnan,(Working Families),3,AD 39,2025-11-04_22:11:07.615996
+ED   11,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),8,AD 39,2025-11-04_22:11:07.615996
+ED   11,0.00%,Shah S. Haque,(Asians United),-,AD 39,2025-11-04_22:11:07.615996
+ED   11,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+ED   12,0.00%,Shekar Krishnan,(Democratic),170,AD 39,2025-11-04_22:11:07.615996
+ED   12,0.00%,Ramses S. Frias,(Republican),65,AD 39,2025-11-04_22:11:07.615996
+ED   12,0.00%,Ramses S. Frias,(Conservative),2,AD 39,2025-11-04_22:11:07.615996
+ED   12,0.00%,Shekar Krishnan,(Working Families),26,AD 39,2025-11-04_22:11:07.615996
+ED   12,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),14,AD 39,2025-11-04_22:11:07.615996
+ED   12,0.00%,Shah S. Haque,(Asians United),8,AD 39,2025-11-04_22:11:07.615996
+ED   12,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+ED   13,0.00%,Shekar Krishnan,(Democratic),128,AD 39,2025-11-04_22:11:07.615996
+ED   13,0.00%,Ramses S. Frias,(Republican),40,AD 39,2025-11-04_22:11:07.615996
+ED   13,0.00%,Ramses S. Frias,(Conservative),1,AD 39,2025-11-04_22:11:07.615996
+ED   13,0.00%,Shekar Krishnan,(Working Families),24,AD 39,2025-11-04_22:11:07.615996
+ED   13,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),8,AD 39,2025-11-04_22:11:07.615996
+ED   13,0.00%,Shah S. Haque,(Asians United),7,AD 39,2025-11-04_22:11:07.615996
+ED   13,0.00%,WRITE-IN,&nbsp,2,AD 39,2025-11-04_22:11:07.615996
+ED   14,0.00%,Shekar Krishnan,(Democratic),213,AD 39,2025-11-04_22:11:07.615996
+ED   14,0.00%,Ramses S. Frias,(Republican),65,AD 39,2025-11-04_22:11:07.615996
+ED   14,0.00%,Ramses S. Frias,(Conservative),4,AD 39,2025-11-04_22:11:07.615996
+ED   14,0.00%,Shekar Krishnan,(Working Families),29,AD 39,2025-11-04_22:11:07.615996
+ED   14,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),27,AD 39,2025-11-04_22:11:07.615996
+ED   14,0.00%,Shah S. Haque,(Asians United),10,AD 39,2025-11-04_22:11:07.615996
+ED   14,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+ED   15,0.00%,Shekar Krishnan,(Democratic),324,AD 39,2025-11-04_22:11:07.615996
+ED   15,0.00%,Ramses S. Frias,(Republican),107,AD 39,2025-11-04_22:11:07.615996
+ED   15,0.00%,Ramses S. Frias,(Conservative),9,AD 39,2025-11-04_22:11:07.615996
+ED   15,0.00%,Shekar Krishnan,(Working Families),48,AD 39,2025-11-04_22:11:07.615996
+ED   15,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),53,AD 39,2025-11-04_22:11:07.615996
+ED   15,0.00%,Shah S. Haque,(Asians United),30,AD 39,2025-11-04_22:11:07.615996
+ED   15,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   17,0.00%,Shekar Krishnan,(Democratic),145,AD 39,2025-11-04_22:11:07.615996
+ED   17,0.00%,Ramses S. Frias,(Republican),53,AD 39,2025-11-04_22:11:07.615996
+ED   17,0.00%,Ramses S. Frias,(Conservative),10,AD 39,2025-11-04_22:11:07.615996
+ED   17,0.00%,Shekar Krishnan,(Working Families),16,AD 39,2025-11-04_22:11:07.615996
+ED   17,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),11,AD 39,2025-11-04_22:11:07.615996
+ED   17,0.00%,Shah S. Haque,(Asians United),4,AD 39,2025-11-04_22:11:07.615996
+ED   17,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   18,0.00%,Shekar Krishnan,(Democratic),335,AD 39,2025-11-04_22:11:07.615996
+ED   18,0.00%,Ramses S. Frias,(Republican),94,AD 39,2025-11-04_22:11:07.615996
+ED   18,0.00%,Ramses S. Frias,(Conservative),6,AD 39,2025-11-04_22:11:07.615996
+ED   18,0.00%,Shekar Krishnan,(Working Families),26,AD 39,2025-11-04_22:11:07.615996
+ED   18,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),28,AD 39,2025-11-04_22:11:07.615996
+ED   18,0.00%,Shah S. Haque,(Asians United),24,AD 39,2025-11-04_22:11:07.615996
+ED   18,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   19,0.00%,Shekar Krishnan,(Democratic),358,AD 39,2025-11-04_22:11:07.615996
+ED   19,0.00%,Ramses S. Frias,(Republican),109,AD 39,2025-11-04_22:11:07.615996
+ED   19,0.00%,Ramses S. Frias,(Conservative),10,AD 39,2025-11-04_22:11:07.615996
+ED   19,0.00%,Shekar Krishnan,(Working Families),46,AD 39,2025-11-04_22:11:07.615996
+ED   19,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),26,AD 39,2025-11-04_22:11:07.615996
+ED   19,0.00%,Shah S. Haque,(Asians United),41,AD 39,2025-11-04_22:11:07.615996
+ED   19,0.00%,WRITE-IN,&nbsp,2,AD 39,2025-11-04_22:11:07.615996
+ED   20,0.00%,Shekar Krishnan,(Democratic),75,AD 39,2025-11-04_22:11:07.615996
+ED   20,0.00%,Ramses S. Frias,(Republican),30,AD 39,2025-11-04_22:11:07.615996
+ED   20,0.00%,Ramses S. Frias,(Conservative),3,AD 39,2025-11-04_22:11:07.615996
+ED   20,0.00%,Shekar Krishnan,(Working Families),9,AD 39,2025-11-04_22:11:07.615996
+ED   20,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),6,AD 39,2025-11-04_22:11:07.615996
+ED   20,0.00%,Shah S. Haque,(Asians United),4,AD 39,2025-11-04_22:11:07.615996
+ED   20,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   21,0.00%,Shekar Krishnan,(Democratic),167,AD 39,2025-11-04_22:11:07.615996
+ED   21,0.00%,Ramses S. Frias,(Republican),48,AD 39,2025-11-04_22:11:07.615996
+ED   21,0.00%,Ramses S. Frias,(Conservative),4,AD 39,2025-11-04_22:11:07.615996
+ED   21,0.00%,Shekar Krishnan,(Working Families),29,AD 39,2025-11-04_22:11:07.615996
+ED   21,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),16,AD 39,2025-11-04_22:11:07.615996
+ED   21,0.00%,Shah S. Haque,(Asians United),18,AD 39,2025-11-04_22:11:07.615996
+ED   21,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   22,0.00%,Shekar Krishnan,(Democratic),211,AD 39,2025-11-04_22:11:07.615996
+ED   22,0.00%,Ramses S. Frias,(Republican),72,AD 39,2025-11-04_22:11:07.615996
+ED   22,0.00%,Ramses S. Frias,(Conservative),7,AD 39,2025-11-04_22:11:07.615996
+ED   22,0.00%,Shekar Krishnan,(Working Families),28,AD 39,2025-11-04_22:11:07.615996
+ED   22,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),11,AD 39,2025-11-04_22:11:07.615996
+ED   22,0.00%,Shah S. Haque,(Asians United),20,AD 39,2025-11-04_22:11:07.615996
+ED   22,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   23,0.00%,Shekar Krishnan,(Democratic),201,AD 39,2025-11-04_22:11:07.615996
+ED   23,0.00%,Ramses S. Frias,(Republican),72,AD 39,2025-11-04_22:11:07.615996
+ED   23,0.00%,Ramses S. Frias,(Conservative),11,AD 39,2025-11-04_22:11:07.615996
+ED   23,0.00%,Shekar Krishnan,(Working Families),16,AD 39,2025-11-04_22:11:07.615996
+ED   23,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),21,AD 39,2025-11-04_22:11:07.615996
+ED   23,0.00%,Shah S. Haque,(Asians United),14,AD 39,2025-11-04_22:11:07.615996
+ED   23,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   25,0.00%,Shekar Krishnan,(Democratic),154,AD 39,2025-11-04_22:11:07.615996
+ED   25,0.00%,Ramses S. Frias,(Republican),46,AD 39,2025-11-04_22:11:07.615996
+ED   25,0.00%,Ramses S. Frias,(Conservative),4,AD 39,2025-11-04_22:11:07.615996
+ED   25,0.00%,Shekar Krishnan,(Working Families),16,AD 39,2025-11-04_22:11:07.615996
+ED   25,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),12,AD 39,2025-11-04_22:11:07.615996
+ED   25,0.00%,Shah S. Haque,(Asians United),11,AD 39,2025-11-04_22:11:07.615996
+ED   25,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+ED   26,0.00%,Shekar Krishnan,(Democratic),226,AD 39,2025-11-04_22:11:07.615996
+ED   26,0.00%,Ramses S. Frias,(Republican),86,AD 39,2025-11-04_22:11:07.615996
+ED   26,0.00%,Ramses S. Frias,(Conservative),11,AD 39,2025-11-04_22:11:07.615996
+ED   26,0.00%,Shekar Krishnan,(Working Families),29,AD 39,2025-11-04_22:11:07.615996
+ED   26,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),33,AD 39,2025-11-04_22:11:07.615996
+ED   26,0.00%,Shah S. Haque,(Asians United),7,AD 39,2025-11-04_22:11:07.615996
+ED   26,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shekar Krishnan,(Democratic),111,AD 39,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ramses S. Frias,(Republican),53,AD 39,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ramses S. Frias,(Conservative),6,AD 39,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shekar Krishnan,(Working Families),21,AD 39,2025-11-04_22:11:07.615996
+ED   37,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),9,AD 39,2025-11-04_22:11:07.615996
+ED   37,0.00%,Shah S. Haque,(Asians United),3,AD 39,2025-11-04_22:11:07.615996
+ED   37,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shekar Krishnan,(Democratic),110,AD 39,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ramses S. Frias,(Republican),67,AD 39,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ramses S. Frias,(Conservative),2,AD 39,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shekar Krishnan,(Working Families),17,AD 39,2025-11-04_22:11:07.615996
+ED   38,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),11,AD 39,2025-11-04_22:11:07.615996
+ED   38,0.00%,Shah S. Haque,(Asians United),1,AD 39,2025-11-04_22:11:07.615996
+ED   38,0.00%,WRITE-IN,&nbsp,1,AD 39,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shekar Krishnan,(Democratic),196,AD 39,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ramses S. Frias,(Republican),97,AD 39,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ramses S. Frias,(Conservative),6,AD 39,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shekar Krishnan,(Working Families),27,AD 39,2025-11-04_22:11:07.615996
+ED   39,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),30,AD 39,2025-11-04_22:11:07.615996
+ED   39,0.00%,Shah S. Haque,(Asians United),15,AD 39,2025-11-04_22:11:07.615996
+ED   39,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+ED   50,0.00%,Shekar Krishnan,(Democratic),58,AD 39,2025-11-04_22:11:07.615996
+ED   50,0.00%,Ramses S. Frias,(Republican),27,AD 39,2025-11-04_22:11:07.615996
+ED   50,0.00%,Ramses S. Frias,(Conservative),-,AD 39,2025-11-04_22:11:07.615996
+ED   50,0.00%,Shekar Krishnan,(Working Families),8,AD 39,2025-11-04_22:11:07.615996
+ED   50,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),8,AD 39,2025-11-04_22:11:07.615996
+ED   50,0.00%,Shah S. Haque,(Asians United),1,AD 39,2025-11-04_22:11:07.615996
+ED   50,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+ED   52,0.00%,Shekar Krishnan,(Democratic),93,AD 39,2025-11-04_22:11:07.615996
+ED   52,0.00%,Ramses S. Frias,(Republican),15,AD 39,2025-11-04_22:11:07.615996
+ED   52,0.00%,Ramses S. Frias,(Conservative),-,AD 39,2025-11-04_22:11:07.615996
+ED   52,0.00%,Shekar Krishnan,(Working Families),16,AD 39,2025-11-04_22:11:07.615996
+ED   52,0.00%,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),7,AD 39,2025-11-04_22:11:07.615996
+ED   52,0.00%,Shah S. Haque,(Asians United),13,AD 39,2025-11-04_22:11:07.615996
+ED   52,0.00%,WRITE-IN,&nbsp,-,AD 39,2025-11-04_22:11:07.615996
+Total,,Shekar Krishnan,(Democratic),7264,AD 39,2025-11-04_22:11:07.615996
+Total,,Ramses S. Frias,(Republican),2101,AD 39,2025-11-04_22:11:07.615996
+Total,,Ramses S. Frias,(Conservative),202,AD 39,2025-11-04_22:11:07.615996
+Total,,Shekar Krishnan,(Working Families),1564,AD 39,2025-11-04_22:11:07.615996
+Total,,Ricardo Pacheco,(Safe&Affordable/Stop The Casino),772,AD 39,2025-11-04_22:11:07.615996
+Total,,Shah S. Haque,(Asians United),353,AD 39,2025-11-04_22:11:07.615996
+Total,,WRITE-IN,&nbsp,46,AD 39,2025-11-04_22:11:07.615996

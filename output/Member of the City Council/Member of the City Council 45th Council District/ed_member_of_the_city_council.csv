@@ -1,0 +1,486 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    1,0.00%,Farah N. Louis,(Democratic),379,AD 41,2025-11-04_22:11:30.501346
+ED    1,0.00%,Joshua Elijah Diaz,(Republican),18,AD 41,2025-11-04_22:11:30.501346
+ED    1,0.00%,Joshua Elijah Diaz,(Conservative),4,AD 41,2025-11-04_22:11:30.501346
+ED    1,0.00%,Hatem El-Gamasy,(Safe&Affordable),5,AD 41,2025-11-04_22:11:30.501346
+ED    1,0.00%,WRITE-IN,&nbsp,-,AD 41,2025-11-04_22:11:30.501346
+ED    2,0.00%,Farah N. Louis,(Democratic),423,AD 41,2025-11-04_22:11:30.501346
+ED    2,0.00%,Joshua Elijah Diaz,(Republican),14,AD 41,2025-11-04_22:11:30.501346
+ED    2,0.00%,Joshua Elijah Diaz,(Conservative),7,AD 41,2025-11-04_22:11:30.501346
+ED    2,0.00%,Hatem El-Gamasy,(Safe&Affordable),8,AD 41,2025-11-04_22:11:30.501346
+ED    2,0.00%,WRITE-IN,&nbsp,-,AD 41,2025-11-04_22:11:30.501346
+ED    3,0.00%,Farah N. Louis,(Democratic),273,AD 41,2025-11-04_22:11:30.501346
+ED    3,0.00%,Joshua Elijah Diaz,(Republican),14,AD 41,2025-11-04_22:11:30.501346
+ED    3,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 41,2025-11-04_22:11:30.501346
+ED    3,0.00%,Hatem El-Gamasy,(Safe&Affordable),2,AD 41,2025-11-04_22:11:30.501346
+ED    3,0.00%,WRITE-IN,&nbsp,-,AD 41,2025-11-04_22:11:30.501346
+ED    4,0.00%,Farah N. Louis,(Democratic),547,AD 41,2025-11-04_22:11:30.501346
+ED    4,0.00%,Joshua Elijah Diaz,(Republican),21,AD 41,2025-11-04_22:11:30.501346
+ED    4,0.00%,Joshua Elijah Diaz,(Conservative),7,AD 41,2025-11-04_22:11:30.501346
+ED    4,0.00%,Hatem El-Gamasy,(Safe&Affordable),25,AD 41,2025-11-04_22:11:30.501346
+ED    4,0.00%,WRITE-IN,&nbsp,1,AD 41,2025-11-04_22:11:30.501346
+ED    5,0.00%,Farah N. Louis,(Democratic),346,AD 41,2025-11-04_22:11:30.501346
+ED    5,0.00%,Joshua Elijah Diaz,(Republican),15,AD 41,2025-11-04_22:11:30.501346
+ED    5,0.00%,Joshua Elijah Diaz,(Conservative),1,AD 41,2025-11-04_22:11:30.501346
+ED    5,0.00%,Hatem El-Gamasy,(Safe&Affordable),29,AD 41,2025-11-04_22:11:30.501346
+ED    5,0.00%,WRITE-IN,&nbsp,3,AD 41,2025-11-04_22:11:30.501346
+ED    6,0.00%,Farah N. Louis,(Democratic),409,AD 41,2025-11-04_22:11:30.501346
+ED    6,0.00%,Joshua Elijah Diaz,(Republican),19,AD 41,2025-11-04_22:11:30.501346
+ED    6,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 41,2025-11-04_22:11:30.501346
+ED    6,0.00%,Hatem El-Gamasy,(Safe&Affordable),18,AD 41,2025-11-04_22:11:30.501346
+ED    6,0.00%,WRITE-IN,&nbsp,2,AD 41,2025-11-04_22:11:30.501346
+ED    7,0.00%,Farah N. Louis,(Democratic),432,AD 41,2025-11-04_22:11:30.501346
+ED    7,0.00%,Joshua Elijah Diaz,(Republican),19,AD 41,2025-11-04_22:11:30.501346
+ED    7,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 41,2025-11-04_22:11:30.501346
+ED    7,0.00%,Hatem El-Gamasy,(Safe&Affordable),14,AD 41,2025-11-04_22:11:30.501346
+ED    7,0.00%,WRITE-IN,&nbsp,1,AD 41,2025-11-04_22:11:30.501346
+ED    8,0.00%,Farah N. Louis,(Democratic),359,AD 41,2025-11-04_22:11:30.501346
+ED    8,0.00%,Joshua Elijah Diaz,(Republican),11,AD 41,2025-11-04_22:11:30.501346
+ED    8,0.00%,Joshua Elijah Diaz,(Conservative),1,AD 41,2025-11-04_22:11:30.501346
+ED    8,0.00%,Hatem El-Gamasy,(Safe&Affordable),20,AD 41,2025-11-04_22:11:30.501346
+ED    8,0.00%,WRITE-IN,&nbsp,-,AD 41,2025-11-04_22:11:30.501346
+ED    9,0.00%,Farah N. Louis,(Democratic),437,AD 41,2025-11-04_22:11:30.501346
+ED    9,0.00%,Joshua Elijah Diaz,(Republican),12,AD 41,2025-11-04_22:11:30.501346
+ED    9,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 41,2025-11-04_22:11:30.501346
+ED    9,0.00%,Hatem El-Gamasy,(Safe&Affordable),12,AD 41,2025-11-04_22:11:30.501346
+ED    9,0.00%,WRITE-IN,&nbsp,2,AD 41,2025-11-04_22:11:30.501346
+ED   10,0.00%,Farah N. Louis,(Democratic),289,AD 41,2025-11-04_22:11:30.501346
+ED   10,0.00%,Joshua Elijah Diaz,(Republican),10,AD 41,2025-11-04_22:11:30.501346
+ED   10,0.00%,Joshua Elijah Diaz,(Conservative),1,AD 41,2025-11-04_22:11:30.501346
+ED   10,0.00%,Hatem El-Gamasy,(Safe&Affordable),9,AD 41,2025-11-04_22:11:30.501346
+ED   10,0.00%,WRITE-IN,&nbsp,1,AD 41,2025-11-04_22:11:30.501346
+ED   12,0.00%,Farah N. Louis,(Democratic),283,AD 41,2025-11-04_22:11:30.501346
+ED   12,0.00%,Joshua Elijah Diaz,(Republican),62,AD 41,2025-11-04_22:11:30.501346
+ED   12,0.00%,Joshua Elijah Diaz,(Conservative),14,AD 41,2025-11-04_22:11:30.501346
+ED   12,0.00%,Hatem El-Gamasy,(Safe&Affordable),35,AD 41,2025-11-04_22:11:30.501346
+ED   12,0.00%,WRITE-IN,&nbsp,1,AD 41,2025-11-04_22:11:30.501346
+ED   13,0.00%,Farah N. Louis,(Democratic),258,AD 41,2025-11-04_22:11:30.501346
+ED   13,0.00%,Joshua Elijah Diaz,(Republican),23,AD 41,2025-11-04_22:11:30.501346
+ED   13,0.00%,Joshua Elijah Diaz,(Conservative),6,AD 41,2025-11-04_22:11:30.501346
+ED   13,0.00%,Hatem El-Gamasy,(Safe&Affordable),11,AD 41,2025-11-04_22:11:30.501346
+ED   13,0.00%,WRITE-IN,&nbsp,-,AD 41,2025-11-04_22:11:30.501346
+ED   14,0.00%,Farah N. Louis,(Democratic),464,AD 41,2025-11-04_22:11:30.501346
+ED   14,0.00%,Joshua Elijah Diaz,(Republican),143,AD 41,2025-11-04_22:11:30.501346
+ED   14,0.00%,Joshua Elijah Diaz,(Conservative),36,AD 41,2025-11-04_22:11:30.501346
+ED   14,0.00%,Hatem El-Gamasy,(Safe&Affordable),8,AD 41,2025-11-04_22:11:30.501346
+ED   14,0.00%,WRITE-IN,&nbsp,2,AD 41,2025-11-04_22:11:30.501346
+ED   15,0.00%,Farah N. Louis,(Democratic),173,AD 41,2025-11-04_22:11:30.501346
+ED   15,0.00%,Joshua Elijah Diaz,(Republican),34,AD 41,2025-11-04_22:11:30.501346
+ED   15,0.00%,Joshua Elijah Diaz,(Conservative),7,AD 41,2025-11-04_22:11:30.501346
+ED   15,0.00%,Hatem El-Gamasy,(Safe&Affordable),2,AD 41,2025-11-04_22:11:30.501346
+ED   15,0.00%,WRITE-IN,&nbsp,1,AD 41,2025-11-04_22:11:30.501346
+ED   16,0.00%,Farah N. Louis,(Democratic),253,AD 41,2025-11-04_22:11:30.501346
+ED   16,0.00%,Joshua Elijah Diaz,(Republican),59,AD 41,2025-11-04_22:11:30.501346
+ED   16,0.00%,Joshua Elijah Diaz,(Conservative),12,AD 41,2025-11-04_22:11:30.501346
+ED   16,0.00%,Hatem El-Gamasy,(Safe&Affordable),19,AD 41,2025-11-04_22:11:30.501346
+ED   16,0.00%,WRITE-IN,&nbsp,-,AD 41,2025-11-04_22:11:30.501346
+ED   17,0.00%,Farah N. Louis,(Democratic),306,AD 41,2025-11-04_22:11:30.501346
+ED   17,0.00%,Joshua Elijah Diaz,(Republican),9,AD 41,2025-11-04_22:11:30.501346
+ED   17,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 41,2025-11-04_22:11:30.501346
+ED   17,0.00%,Hatem El-Gamasy,(Safe&Affordable),82,AD 41,2025-11-04_22:11:30.501346
+ED   17,0.00%,WRITE-IN,&nbsp,2,AD 41,2025-11-04_22:11:30.501346
+ED   18,0.00%,Farah N. Louis,(Democratic),316,AD 41,2025-11-04_22:11:30.501346
+ED   18,0.00%,Joshua Elijah Diaz,(Republican),22,AD 41,2025-11-04_22:11:30.501346
+ED   18,0.00%,Joshua Elijah Diaz,(Conservative),6,AD 41,2025-11-04_22:11:30.501346
+ED   18,0.00%,Hatem El-Gamasy,(Safe&Affordable),10,AD 41,2025-11-04_22:11:30.501346
+ED   18,0.00%,WRITE-IN,&nbsp,-,AD 41,2025-11-04_22:11:30.501346
+ED   19,0.00%,Farah N. Louis,(Democratic),360,AD 41,2025-11-04_22:11:30.501346
+ED   19,0.00%,Joshua Elijah Diaz,(Republican),47,AD 41,2025-11-04_22:11:30.501346
+ED   19,0.00%,Joshua Elijah Diaz,(Conservative),11,AD 41,2025-11-04_22:11:30.501346
+ED   19,0.00%,Hatem El-Gamasy,(Safe&Affordable),23,AD 41,2025-11-04_22:11:30.501346
+ED   19,0.00%,WRITE-IN,&nbsp,4,AD 41,2025-11-04_22:11:30.501346
+ED   32,0.00%,Farah N. Louis,(Democratic),368,AD 41,2025-11-04_22:11:30.501346
+ED   32,0.00%,Joshua Elijah Diaz,(Republican),132,AD 41,2025-11-04_22:11:30.501346
+ED   32,0.00%,Joshua Elijah Diaz,(Conservative),13,AD 41,2025-11-04_22:11:30.501346
+ED   32,0.00%,Hatem El-Gamasy,(Safe&Affordable),17,AD 41,2025-11-04_22:11:30.501346
+ED   32,0.00%,WRITE-IN,&nbsp,2,AD 41,2025-11-04_22:11:30.501346
+ED   33,0.00%,Farah N. Louis,(Democratic),428,AD 41,2025-11-04_22:11:30.501346
+ED   33,0.00%,Joshua Elijah Diaz,(Republican),237,AD 41,2025-11-04_22:11:30.501346
+ED   33,0.00%,Joshua Elijah Diaz,(Conservative),35,AD 41,2025-11-04_22:11:30.501346
+ED   33,0.00%,Hatem El-Gamasy,(Safe&Affordable),17,AD 41,2025-11-04_22:11:30.501346
+ED   33,0.00%,WRITE-IN,&nbsp,8,AD 41,2025-11-04_22:11:30.501346
+ED   35,0.00%,Farah N. Louis,(Democratic),413,AD 41,2025-11-04_22:11:30.501346
+ED   35,0.00%,Joshua Elijah Diaz,(Republican),190,AD 41,2025-11-04_22:11:30.501346
+ED   35,0.00%,Joshua Elijah Diaz,(Conservative),28,AD 41,2025-11-04_22:11:30.501346
+ED   35,0.00%,Hatem El-Gamasy,(Safe&Affordable),5,AD 41,2025-11-04_22:11:30.501346
+ED   35,0.00%,WRITE-IN,&nbsp,6,AD 41,2025-11-04_22:11:30.501346
+ED   62,0.00%,Farah N. Louis,(Democratic),141,AD 41,2025-11-04_22:11:30.501346
+ED   62,0.00%,Joshua Elijah Diaz,(Republican),84,AD 41,2025-11-04_22:11:30.501346
+ED   62,0.00%,Joshua Elijah Diaz,(Conservative),14,AD 41,2025-11-04_22:11:30.501346
+ED   62,0.00%,Hatem El-Gamasy,(Safe&Affordable),1,AD 41,2025-11-04_22:11:30.501346
+ED   62,0.00%,WRITE-IN,&nbsp,-,AD 41,2025-11-04_22:11:30.501346
+Total,,Farah N. Louis,(Democratic),7657,AD 41,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Republican),1195,AD 41,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Conservative),221,AD 41,2025-11-04_22:11:30.501346
+Total,,Hatem El-Gamasy,(Safe&Affordable),372,AD 41,2025-11-04_22:11:30.501346
+Total,,WRITE-IN,&nbsp,36,AD 41,2025-11-04_22:11:30.501346
+ED   23,0.00%,Farah N. Louis,(Democratic),537,AD 42,2025-11-04_22:11:30.501346
+ED   23,0.00%,Joshua Elijah Diaz,(Republican),39,AD 42,2025-11-04_22:11:30.501346
+ED   23,0.00%,Joshua Elijah Diaz,(Conservative),6,AD 42,2025-11-04_22:11:30.501346
+ED   23,0.00%,Hatem El-Gamasy,(Safe&Affordable),18,AD 42,2025-11-04_22:11:30.501346
+ED   23,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   28,0.00%,Farah N. Louis,(Democratic),556,AD 42,2025-11-04_22:11:30.501346
+ED   28,0.00%,Joshua Elijah Diaz,(Republican),21,AD 42,2025-11-04_22:11:30.501346
+ED   28,0.00%,Joshua Elijah Diaz,(Conservative),4,AD 42,2025-11-04_22:11:30.501346
+ED   28,0.00%,Hatem El-Gamasy,(Safe&Affordable),26,AD 42,2025-11-04_22:11:30.501346
+ED   28,0.00%,WRITE-IN,&nbsp,2,AD 42,2025-11-04_22:11:30.501346
+ED   30,0.00%,Farah N. Louis,(Democratic),293,AD 42,2025-11-04_22:11:30.501346
+ED   30,0.00%,Joshua Elijah Diaz,(Republican),4,AD 42,2025-11-04_22:11:30.501346
+ED   30,0.00%,Joshua Elijah Diaz,(Conservative),1,AD 42,2025-11-04_22:11:30.501346
+ED   30,0.00%,Hatem El-Gamasy,(Safe&Affordable),12,AD 42,2025-11-04_22:11:30.501346
+ED   30,0.00%,WRITE-IN,&nbsp,-,AD 42,2025-11-04_22:11:30.501346
+ED   31,0.00%,Farah N. Louis,(Democratic),370,AD 42,2025-11-04_22:11:30.501346
+ED   31,0.00%,Joshua Elijah Diaz,(Republican),7,AD 42,2025-11-04_22:11:30.501346
+ED   31,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 42,2025-11-04_22:11:30.501346
+ED   31,0.00%,Hatem El-Gamasy,(Safe&Affordable),11,AD 42,2025-11-04_22:11:30.501346
+ED   31,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   32,0.00%,Farah N. Louis,(Democratic),383,AD 42,2025-11-04_22:11:30.501346
+ED   32,0.00%,Joshua Elijah Diaz,(Republican),13,AD 42,2025-11-04_22:11:30.501346
+ED   32,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 42,2025-11-04_22:11:30.501346
+ED   32,0.00%,Hatem El-Gamasy,(Safe&Affordable),8,AD 42,2025-11-04_22:11:30.501346
+ED   32,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   33,0.00%,Farah N. Louis,(Democratic),355,AD 42,2025-11-04_22:11:30.501346
+ED   33,0.00%,Joshua Elijah Diaz,(Republican),11,AD 42,2025-11-04_22:11:30.501346
+ED   33,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 42,2025-11-04_22:11:30.501346
+ED   33,0.00%,Hatem El-Gamasy,(Safe&Affordable),19,AD 42,2025-11-04_22:11:30.501346
+ED   33,0.00%,WRITE-IN,&nbsp,-,AD 42,2025-11-04_22:11:30.501346
+ED   35,0.00%,Farah N. Louis,(Democratic),395,AD 42,2025-11-04_22:11:30.501346
+ED   35,0.00%,Joshua Elijah Diaz,(Republican),10,AD 42,2025-11-04_22:11:30.501346
+ED   35,0.00%,Joshua Elijah Diaz,(Conservative),6,AD 42,2025-11-04_22:11:30.501346
+ED   35,0.00%,Hatem El-Gamasy,(Safe&Affordable),3,AD 42,2025-11-04_22:11:30.501346
+ED   35,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   36,0.00%,Farah N. Louis,(Democratic),411,AD 42,2025-11-04_22:11:30.501346
+ED   36,0.00%,Joshua Elijah Diaz,(Republican),12,AD 42,2025-11-04_22:11:30.501346
+ED   36,0.00%,Joshua Elijah Diaz,(Conservative),7,AD 42,2025-11-04_22:11:30.501346
+ED   36,0.00%,Hatem El-Gamasy,(Safe&Affordable),13,AD 42,2025-11-04_22:11:30.501346
+ED   36,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   37,0.00%,Farah N. Louis,(Democratic),473,AD 42,2025-11-04_22:11:30.501346
+ED   37,0.00%,Joshua Elijah Diaz,(Republican),9,AD 42,2025-11-04_22:11:30.501346
+ED   37,0.00%,Joshua Elijah Diaz,(Conservative),4,AD 42,2025-11-04_22:11:30.501346
+ED   37,0.00%,Hatem El-Gamasy,(Safe&Affordable),16,AD 42,2025-11-04_22:11:30.501346
+ED   37,0.00%,WRITE-IN,&nbsp,-,AD 42,2025-11-04_22:11:30.501346
+ED   38,0.00%,Farah N. Louis,(Democratic),492,AD 42,2025-11-04_22:11:30.501346
+ED   38,0.00%,Joshua Elijah Diaz,(Republican),23,AD 42,2025-11-04_22:11:30.501346
+ED   38,0.00%,Joshua Elijah Diaz,(Conservative),4,AD 42,2025-11-04_22:11:30.501346
+ED   38,0.00%,Hatem El-Gamasy,(Safe&Affordable),15,AD 42,2025-11-04_22:11:30.501346
+ED   38,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   39,0.00%,Farah N. Louis,(Democratic),411,AD 42,2025-11-04_22:11:30.501346
+ED   39,0.00%,Joshua Elijah Diaz,(Republican),10,AD 42,2025-11-04_22:11:30.501346
+ED   39,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 42,2025-11-04_22:11:30.501346
+ED   39,0.00%,Hatem El-Gamasy,(Safe&Affordable),12,AD 42,2025-11-04_22:11:30.501346
+ED   39,0.00%,WRITE-IN,&nbsp,2,AD 42,2025-11-04_22:11:30.501346
+ED   40,0.00%,Farah N. Louis,(Democratic),369,AD 42,2025-11-04_22:11:30.501346
+ED   40,0.00%,Joshua Elijah Diaz,(Republican),13,AD 42,2025-11-04_22:11:30.501346
+ED   40,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 42,2025-11-04_22:11:30.501346
+ED   40,0.00%,Hatem El-Gamasy,(Safe&Affordable),13,AD 42,2025-11-04_22:11:30.501346
+ED   40,0.00%,WRITE-IN,&nbsp,2,AD 42,2025-11-04_22:11:30.501346
+ED   41,0.00%,Farah N. Louis,(Democratic),590,AD 42,2025-11-04_22:11:30.501346
+ED   41,0.00%,Joshua Elijah Diaz,(Republican),72,AD 42,2025-11-04_22:11:30.501346
+ED   41,0.00%,Joshua Elijah Diaz,(Conservative),9,AD 42,2025-11-04_22:11:30.501346
+ED   41,0.00%,Hatem El-Gamasy,(Safe&Affordable),18,AD 42,2025-11-04_22:11:30.501346
+ED   41,0.00%,WRITE-IN,&nbsp,2,AD 42,2025-11-04_22:11:30.501346
+ED   42,0.00%,Farah N. Louis,(Democratic),442,AD 42,2025-11-04_22:11:30.501346
+ED   42,0.00%,Joshua Elijah Diaz,(Republican),21,AD 42,2025-11-04_22:11:30.501346
+ED   42,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 42,2025-11-04_22:11:30.501346
+ED   42,0.00%,Hatem El-Gamasy,(Safe&Affordable),18,AD 42,2025-11-04_22:11:30.501346
+ED   42,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   43,0.00%,Farah N. Louis,(Democratic),466,AD 42,2025-11-04_22:11:30.501346
+ED   43,0.00%,Joshua Elijah Diaz,(Republican),11,AD 42,2025-11-04_22:11:30.501346
+ED   43,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 42,2025-11-04_22:11:30.501346
+ED   43,0.00%,Hatem El-Gamasy,(Safe&Affordable),16,AD 42,2025-11-04_22:11:30.501346
+ED   43,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   44,0.00%,Farah N. Louis,(Democratic),313,AD 42,2025-11-04_22:11:30.501346
+ED   44,0.00%,Joshua Elijah Diaz,(Republican),12,AD 42,2025-11-04_22:11:30.501346
+ED   44,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 42,2025-11-04_22:11:30.501346
+ED   44,0.00%,Hatem El-Gamasy,(Safe&Affordable),13,AD 42,2025-11-04_22:11:30.501346
+ED   44,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   45,0.00%,Farah N. Louis,(Democratic),344,AD 42,2025-11-04_22:11:30.501346
+ED   45,0.00%,Joshua Elijah Diaz,(Republican),21,AD 42,2025-11-04_22:11:30.501346
+ED   45,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 42,2025-11-04_22:11:30.501346
+ED   45,0.00%,Hatem El-Gamasy,(Safe&Affordable),17,AD 42,2025-11-04_22:11:30.501346
+ED   45,0.00%,WRITE-IN,&nbsp,-,AD 42,2025-11-04_22:11:30.501346
+ED   46,0.00%,Farah N. Louis,(Democratic),334,AD 42,2025-11-04_22:11:30.501346
+ED   46,0.00%,Joshua Elijah Diaz,(Republican),15,AD 42,2025-11-04_22:11:30.501346
+ED   46,0.00%,Joshua Elijah Diaz,(Conservative),4,AD 42,2025-11-04_22:11:30.501346
+ED   46,0.00%,Hatem El-Gamasy,(Safe&Affordable),19,AD 42,2025-11-04_22:11:30.501346
+ED   46,0.00%,WRITE-IN,&nbsp,2,AD 42,2025-11-04_22:11:30.501346
+ED   47,0.00%,Farah N. Louis,(Democratic),508,AD 42,2025-11-04_22:11:30.501346
+ED   47,0.00%,Joshua Elijah Diaz,(Republican),15,AD 42,2025-11-04_22:11:30.501346
+ED   47,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 42,2025-11-04_22:11:30.501346
+ED   47,0.00%,Hatem El-Gamasy,(Safe&Affordable),28,AD 42,2025-11-04_22:11:30.501346
+ED   47,0.00%,WRITE-IN,&nbsp,-,AD 42,2025-11-04_22:11:30.501346
+ED   48,0.00%,Farah N. Louis,(Democratic),410,AD 42,2025-11-04_22:11:30.501346
+ED   48,0.00%,Joshua Elijah Diaz,(Republican),30,AD 42,2025-11-04_22:11:30.501346
+ED   48,0.00%,Joshua Elijah Diaz,(Conservative),10,AD 42,2025-11-04_22:11:30.501346
+ED   48,0.00%,Hatem El-Gamasy,(Safe&Affordable),42,AD 42,2025-11-04_22:11:30.501346
+ED   48,0.00%,WRITE-IN,&nbsp,-,AD 42,2025-11-04_22:11:30.501346
+ED   49,0.00%,Farah N. Louis,(Democratic),535,AD 42,2025-11-04_22:11:30.501346
+ED   49,0.00%,Joshua Elijah Diaz,(Republican),80,AD 42,2025-11-04_22:11:30.501346
+ED   49,0.00%,Joshua Elijah Diaz,(Conservative),22,AD 42,2025-11-04_22:11:30.501346
+ED   49,0.00%,Hatem El-Gamasy,(Safe&Affordable),25,AD 42,2025-11-04_22:11:30.501346
+ED   49,0.00%,WRITE-IN,&nbsp,7,AD 42,2025-11-04_22:11:30.501346
+ED   50,0.00%,Farah N. Louis,(Democratic),481,AD 42,2025-11-04_22:11:30.501346
+ED   50,0.00%,Joshua Elijah Diaz,(Republican),20,AD 42,2025-11-04_22:11:30.501346
+ED   50,0.00%,Joshua Elijah Diaz,(Conservative),4,AD 42,2025-11-04_22:11:30.501346
+ED   50,0.00%,Hatem El-Gamasy,(Safe&Affordable),15,AD 42,2025-11-04_22:11:30.501346
+ED   50,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   51,0.00%,Farah N. Louis,(Democratic),300,AD 42,2025-11-04_22:11:30.501346
+ED   51,0.00%,Joshua Elijah Diaz,(Republican),14,AD 42,2025-11-04_22:11:30.501346
+ED   51,0.00%,Joshua Elijah Diaz,(Conservative),7,AD 42,2025-11-04_22:11:30.501346
+ED   51,0.00%,Hatem El-Gamasy,(Safe&Affordable),14,AD 42,2025-11-04_22:11:30.501346
+ED   51,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   52,0.00%,Farah N. Louis,(Democratic),354,AD 42,2025-11-04_22:11:30.501346
+ED   52,0.00%,Joshua Elijah Diaz,(Republican),148,AD 42,2025-11-04_22:11:30.501346
+ED   52,0.00%,Joshua Elijah Diaz,(Conservative),18,AD 42,2025-11-04_22:11:30.501346
+ED   52,0.00%,Hatem El-Gamasy,(Safe&Affordable),29,AD 42,2025-11-04_22:11:30.501346
+ED   52,0.00%,WRITE-IN,&nbsp,3,AD 42,2025-11-04_22:11:30.501346
+ED   53,0.00%,Farah N. Louis,(Democratic),506,AD 42,2025-11-04_22:11:30.501346
+ED   53,0.00%,Joshua Elijah Diaz,(Republican),82,AD 42,2025-11-04_22:11:30.501346
+ED   53,0.00%,Joshua Elijah Diaz,(Conservative),24,AD 42,2025-11-04_22:11:30.501346
+ED   53,0.00%,Hatem El-Gamasy,(Safe&Affordable),26,AD 42,2025-11-04_22:11:30.501346
+ED   53,0.00%,WRITE-IN,&nbsp,1,AD 42,2025-11-04_22:11:30.501346
+ED   54,0.00%,Farah N. Louis,(Democratic),501,AD 42,2025-11-04_22:11:30.501346
+ED   54,0.00%,Joshua Elijah Diaz,(Republican),174,AD 42,2025-11-04_22:11:30.501346
+ED   54,0.00%,Joshua Elijah Diaz,(Conservative),35,AD 42,2025-11-04_22:11:30.501346
+ED   54,0.00%,Hatem El-Gamasy,(Safe&Affordable),3,AD 42,2025-11-04_22:11:30.501346
+ED   54,0.00%,WRITE-IN,&nbsp,4,AD 42,2025-11-04_22:11:30.501346
+ED   55,0.00%,Farah N. Louis,(Democratic),357,AD 42,2025-11-04_22:11:30.501346
+ED   55,0.00%,Joshua Elijah Diaz,(Republican),76,AD 42,2025-11-04_22:11:30.501346
+ED   55,0.00%,Joshua Elijah Diaz,(Conservative),16,AD 42,2025-11-04_22:11:30.501346
+ED   55,0.00%,Hatem El-Gamasy,(Safe&Affordable),32,AD 42,2025-11-04_22:11:30.501346
+ED   55,0.00%,WRITE-IN,&nbsp,3,AD 42,2025-11-04_22:11:30.501346
+ED   56,0.00%,Farah N. Louis,(Democratic),316,AD 42,2025-11-04_22:11:30.501346
+ED   56,0.00%,Joshua Elijah Diaz,(Republican),83,AD 42,2025-11-04_22:11:30.501346
+ED   56,0.00%,Joshua Elijah Diaz,(Conservative),12,AD 42,2025-11-04_22:11:30.501346
+ED   56,0.00%,Hatem El-Gamasy,(Safe&Affordable),14,AD 42,2025-11-04_22:11:30.501346
+ED   56,0.00%,WRITE-IN,&nbsp,4,AD 42,2025-11-04_22:11:30.501346
+ED   57,0.00%,Farah N. Louis,(Democratic),490,AD 42,2025-11-04_22:11:30.501346
+ED   57,0.00%,Joshua Elijah Diaz,(Republican),194,AD 42,2025-11-04_22:11:30.501346
+ED   57,0.00%,Joshua Elijah Diaz,(Conservative),57,AD 42,2025-11-04_22:11:30.501346
+ED   57,0.00%,Hatem El-Gamasy,(Safe&Affordable),1,AD 42,2025-11-04_22:11:30.501346
+ED   57,0.00%,WRITE-IN,&nbsp,4,AD 42,2025-11-04_22:11:30.501346
+ED   58,0.00%,Farah N. Louis,(Democratic),551,AD 42,2025-11-04_22:11:30.501346
+ED   58,0.00%,Joshua Elijah Diaz,(Republican),131,AD 42,2025-11-04_22:11:30.501346
+ED   58,0.00%,Joshua Elijah Diaz,(Conservative),25,AD 42,2025-11-04_22:11:30.501346
+ED   58,0.00%,Hatem El-Gamasy,(Safe&Affordable),9,AD 42,2025-11-04_22:11:30.501346
+ED   58,0.00%,WRITE-IN,&nbsp,6,AD 42,2025-11-04_22:11:30.501346
+Total,,Farah N. Louis,(Democratic),12843,AD 42,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Republican),1371,AD 42,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Conservative),311,AD 42,2025-11-04_22:11:30.501346
+Total,,Hatem El-Gamasy,(Safe&Affordable),505,AD 42,2025-11-04_22:11:30.501346
+Total,,WRITE-IN,&nbsp,53,AD 42,2025-11-04_22:11:30.501346
+ED   67,0.00%,Farah N. Louis,(Democratic),327,AD 44,2025-11-04_22:11:30.501346
+ED   67,0.00%,Joshua Elijah Diaz,(Republican),32,AD 44,2025-11-04_22:11:30.501346
+ED   67,0.00%,Joshua Elijah Diaz,(Conservative),7,AD 44,2025-11-04_22:11:30.501346
+ED   67,0.00%,Hatem El-Gamasy,(Safe&Affordable),61,AD 44,2025-11-04_22:11:30.501346
+ED   67,0.00%,WRITE-IN,&nbsp,1,AD 44,2025-11-04_22:11:30.501346
+ED   69,0.00%,Farah N. Louis,(Democratic),381,AD 44,2025-11-04_22:11:30.501346
+ED   69,0.00%,Joshua Elijah Diaz,(Republican),137,AD 44,2025-11-04_22:11:30.501346
+ED   69,0.00%,Joshua Elijah Diaz,(Conservative),26,AD 44,2025-11-04_22:11:30.501346
+ED   69,0.00%,Hatem El-Gamasy,(Safe&Affordable),111,AD 44,2025-11-04_22:11:30.501346
+ED   69,0.00%,WRITE-IN,&nbsp,2,AD 44,2025-11-04_22:11:30.501346
+ED   70,0.00%,Farah N. Louis,(Democratic),302,AD 44,2025-11-04_22:11:30.501346
+ED   70,0.00%,Joshua Elijah Diaz,(Republican),40,AD 44,2025-11-04_22:11:30.501346
+ED   70,0.00%,Joshua Elijah Diaz,(Conservative),15,AD 44,2025-11-04_22:11:30.501346
+ED   70,0.00%,Hatem El-Gamasy,(Safe&Affordable),62,AD 44,2025-11-04_22:11:30.501346
+ED   70,0.00%,WRITE-IN,&nbsp,-,AD 44,2025-11-04_22:11:30.501346
+ED   71,0.00%,Farah N. Louis,(Democratic),336,AD 44,2025-11-04_22:11:30.501346
+ED   71,0.00%,Joshua Elijah Diaz,(Republican),81,AD 44,2025-11-04_22:11:30.501346
+ED   71,0.00%,Joshua Elijah Diaz,(Conservative),8,AD 44,2025-11-04_22:11:30.501346
+ED   71,0.00%,Hatem El-Gamasy,(Safe&Affordable),65,AD 44,2025-11-04_22:11:30.501346
+ED   71,0.00%,WRITE-IN,&nbsp,2,AD 44,2025-11-04_22:11:30.501346
+Total,,Farah N. Louis,(Democratic),1346,AD 44,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Republican),290,AD 44,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Conservative),56,AD 44,2025-11-04_22:11:30.501346
+Total,,Hatem El-Gamasy,(Safe&Affordable),299,AD 44,2025-11-04_22:11:30.501346
+Total,,WRITE-IN,&nbsp,5,AD 44,2025-11-04_22:11:30.501346
+ED   17,0.00%,Farah N. Louis,(Democratic),14,AD 48,2025-11-04_22:11:30.501346
+ED   17,0.00%,Joshua Elijah Diaz,(Republican),-,AD 48,2025-11-04_22:11:30.501346
+ED   17,0.00%,Joshua Elijah Diaz,(Conservative),-,AD 48,2025-11-04_22:11:30.501346
+ED   17,0.00%,Hatem El-Gamasy,(Safe&Affordable),-,AD 48,2025-11-04_22:11:30.501346
+ED   17,0.00%,WRITE-IN,&nbsp,-,AD 48,2025-11-04_22:11:30.501346
+ED   19,0.00%,Farah N. Louis,(Democratic),219,AD 48,2025-11-04_22:11:30.501346
+ED   19,0.00%,Joshua Elijah Diaz,(Republican),199,AD 48,2025-11-04_22:11:30.501346
+ED   19,0.00%,Joshua Elijah Diaz,(Conservative),37,AD 48,2025-11-04_22:11:30.501346
+ED   19,0.00%,Hatem El-Gamasy,(Safe&Affordable),49,AD 48,2025-11-04_22:11:30.501346
+ED   19,0.00%,WRITE-IN,&nbsp,7,AD 48,2025-11-04_22:11:30.501346
+ED   20,0.00%,Farah N. Louis,(Democratic),261,AD 48,2025-11-04_22:11:30.501346
+ED   20,0.00%,Joshua Elijah Diaz,(Republican),121,AD 48,2025-11-04_22:11:30.501346
+ED   20,0.00%,Joshua Elijah Diaz,(Conservative),21,AD 48,2025-11-04_22:11:30.501346
+ED   20,0.00%,Hatem El-Gamasy,(Safe&Affordable),45,AD 48,2025-11-04_22:11:30.501346
+ED   20,0.00%,WRITE-IN,&nbsp,-,AD 48,2025-11-04_22:11:30.501346
+Total,,Farah N. Louis,(Democratic),494,AD 48,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Republican),320,AD 48,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Conservative),58,AD 48,2025-11-04_22:11:30.501346
+Total,,Hatem El-Gamasy,(Safe&Affordable),94,AD 48,2025-11-04_22:11:30.501346
+Total,,WRITE-IN,&nbsp,7,AD 48,2025-11-04_22:11:30.501346
+ED    8,0.00%,Farah N. Louis,(Democratic),345,AD 58,2025-11-04_22:11:30.501346
+ED    8,0.00%,Joshua Elijah Diaz,(Republican),11,AD 58,2025-11-04_22:11:30.501346
+ED    8,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 58,2025-11-04_22:11:30.501346
+ED    8,0.00%,Hatem El-Gamasy,(Safe&Affordable),3,AD 58,2025-11-04_22:11:30.501346
+ED    8,0.00%,WRITE-IN,&nbsp,1,AD 58,2025-11-04_22:11:30.501346
+ED   24,0.00%,Farah N. Louis,(Democratic),9,AD 58,2025-11-04_22:11:30.501346
+ED   24,0.00%,Joshua Elijah Diaz,(Republican),3,AD 58,2025-11-04_22:11:30.501346
+ED   24,0.00%,Joshua Elijah Diaz,(Conservative),-,AD 58,2025-11-04_22:11:30.501346
+ED   24,0.00%,Hatem El-Gamasy,(Safe&Affordable),2,AD 58,2025-11-04_22:11:30.501346
+ED   24,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   26,0.00%,Farah N. Louis,(Democratic),328,AD 58,2025-11-04_22:11:30.501346
+ED   26,0.00%,Joshua Elijah Diaz,(Republican),5,AD 58,2025-11-04_22:11:30.501346
+ED   26,0.00%,Joshua Elijah Diaz,(Conservative),9,AD 58,2025-11-04_22:11:30.501346
+ED   26,0.00%,Hatem El-Gamasy,(Safe&Affordable),7,AD 58,2025-11-04_22:11:30.501346
+ED   26,0.00%,WRITE-IN,&nbsp,1,AD 58,2025-11-04_22:11:30.501346
+ED   27,0.00%,Farah N. Louis,(Democratic),383,AD 58,2025-11-04_22:11:30.501346
+ED   27,0.00%,Joshua Elijah Diaz,(Republican),2,AD 58,2025-11-04_22:11:30.501346
+ED   27,0.00%,Joshua Elijah Diaz,(Conservative),4,AD 58,2025-11-04_22:11:30.501346
+ED   27,0.00%,Hatem El-Gamasy,(Safe&Affordable),5,AD 58,2025-11-04_22:11:30.501346
+ED   27,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   28,0.00%,Farah N. Louis,(Democratic),472,AD 58,2025-11-04_22:11:30.501346
+ED   28,0.00%,Joshua Elijah Diaz,(Republican),16,AD 58,2025-11-04_22:11:30.501346
+ED   28,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 58,2025-11-04_22:11:30.501346
+ED   28,0.00%,Hatem El-Gamasy,(Safe&Affordable),6,AD 58,2025-11-04_22:11:30.501346
+ED   28,0.00%,WRITE-IN,&nbsp,1,AD 58,2025-11-04_22:11:30.501346
+ED   29,0.00%,Farah N. Louis,(Democratic),359,AD 58,2025-11-04_22:11:30.501346
+ED   29,0.00%,Joshua Elijah Diaz,(Republican),9,AD 58,2025-11-04_22:11:30.501346
+ED   29,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 58,2025-11-04_22:11:30.501346
+ED   29,0.00%,Hatem El-Gamasy,(Safe&Affordable),3,AD 58,2025-11-04_22:11:30.501346
+ED   29,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   32,0.00%,Farah N. Louis,(Democratic),125,AD 58,2025-11-04_22:11:30.501346
+ED   32,0.00%,Joshua Elijah Diaz,(Republican),6,AD 58,2025-11-04_22:11:30.501346
+ED   32,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 58,2025-11-04_22:11:30.501346
+ED   32,0.00%,Hatem El-Gamasy,(Safe&Affordable),1,AD 58,2025-11-04_22:11:30.501346
+ED   32,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   33,0.00%,Farah N. Louis,(Democratic),289,AD 58,2025-11-04_22:11:30.501346
+ED   33,0.00%,Joshua Elijah Diaz,(Republican),14,AD 58,2025-11-04_22:11:30.501346
+ED   33,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 58,2025-11-04_22:11:30.501346
+ED   33,0.00%,Hatem El-Gamasy,(Safe&Affordable),1,AD 58,2025-11-04_22:11:30.501346
+ED   33,0.00%,WRITE-IN,&nbsp,1,AD 58,2025-11-04_22:11:30.501346
+ED   34,0.00%,Farah N. Louis,(Democratic),398,AD 58,2025-11-04_22:11:30.501346
+ED   34,0.00%,Joshua Elijah Diaz,(Republican),11,AD 58,2025-11-04_22:11:30.501346
+ED   34,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 58,2025-11-04_22:11:30.501346
+ED   34,0.00%,Hatem El-Gamasy,(Safe&Affordable),11,AD 58,2025-11-04_22:11:30.501346
+ED   34,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   35,0.00%,Farah N. Louis,(Democratic),501,AD 58,2025-11-04_22:11:30.501346
+ED   35,0.00%,Joshua Elijah Diaz,(Republican),10,AD 58,2025-11-04_22:11:30.501346
+ED   35,0.00%,Joshua Elijah Diaz,(Conservative),7,AD 58,2025-11-04_22:11:30.501346
+ED   35,0.00%,Hatem El-Gamasy,(Safe&Affordable),7,AD 58,2025-11-04_22:11:30.501346
+ED   35,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   36,0.00%,Farah N. Louis,(Democratic),247,AD 58,2025-11-04_22:11:30.501346
+ED   36,0.00%,Joshua Elijah Diaz,(Republican),1,AD 58,2025-11-04_22:11:30.501346
+ED   36,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 58,2025-11-04_22:11:30.501346
+ED   36,0.00%,Hatem El-Gamasy,(Safe&Affordable),7,AD 58,2025-11-04_22:11:30.501346
+ED   36,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   37,0.00%,Farah N. Louis,(Democratic),446,AD 58,2025-11-04_22:11:30.501346
+ED   37,0.00%,Joshua Elijah Diaz,(Republican),16,AD 58,2025-11-04_22:11:30.501346
+ED   37,0.00%,Joshua Elijah Diaz,(Conservative),-,AD 58,2025-11-04_22:11:30.501346
+ED   37,0.00%,Hatem El-Gamasy,(Safe&Affordable),13,AD 58,2025-11-04_22:11:30.501346
+ED   37,0.00%,WRITE-IN,&nbsp,1,AD 58,2025-11-04_22:11:30.501346
+ED   38,0.00%,Farah N. Louis,(Democratic),326,AD 58,2025-11-04_22:11:30.501346
+ED   38,0.00%,Joshua Elijah Diaz,(Republican),10,AD 58,2025-11-04_22:11:30.501346
+ED   38,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 58,2025-11-04_22:11:30.501346
+ED   38,0.00%,Hatem El-Gamasy,(Safe&Affordable),10,AD 58,2025-11-04_22:11:30.501346
+ED   38,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   39,0.00%,Farah N. Louis,(Democratic),350,AD 58,2025-11-04_22:11:30.501346
+ED   39,0.00%,Joshua Elijah Diaz,(Republican),6,AD 58,2025-11-04_22:11:30.501346
+ED   39,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 58,2025-11-04_22:11:30.501346
+ED   39,0.00%,Hatem El-Gamasy,(Safe&Affordable),8,AD 58,2025-11-04_22:11:30.501346
+ED   39,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   40,0.00%,Farah N. Louis,(Democratic),430,AD 58,2025-11-04_22:11:30.501346
+ED   40,0.00%,Joshua Elijah Diaz,(Republican),18,AD 58,2025-11-04_22:11:30.501346
+ED   40,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 58,2025-11-04_22:11:30.501346
+ED   40,0.00%,Hatem El-Gamasy,(Safe&Affordable),15,AD 58,2025-11-04_22:11:30.501346
+ED   40,0.00%,WRITE-IN,&nbsp,2,AD 58,2025-11-04_22:11:30.501346
+ED   41,0.00%,Farah N. Louis,(Democratic),384,AD 58,2025-11-04_22:11:30.501346
+ED   41,0.00%,Joshua Elijah Diaz,(Republican),15,AD 58,2025-11-04_22:11:30.501346
+ED   41,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 58,2025-11-04_22:11:30.501346
+ED   41,0.00%,Hatem El-Gamasy,(Safe&Affordable),16,AD 58,2025-11-04_22:11:30.501346
+ED   41,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   42,0.00%,Farah N. Louis,(Democratic),425,AD 58,2025-11-04_22:11:30.501346
+ED   42,0.00%,Joshua Elijah Diaz,(Republican),12,AD 58,2025-11-04_22:11:30.501346
+ED   42,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 58,2025-11-04_22:11:30.501346
+ED   42,0.00%,Hatem El-Gamasy,(Safe&Affordable),3,AD 58,2025-11-04_22:11:30.501346
+ED   42,0.00%,WRITE-IN,&nbsp,1,AD 58,2025-11-04_22:11:30.501346
+ED   43,0.00%,Farah N. Louis,(Democratic),348,AD 58,2025-11-04_22:11:30.501346
+ED   43,0.00%,Joshua Elijah Diaz,(Republican),8,AD 58,2025-11-04_22:11:30.501346
+ED   43,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 58,2025-11-04_22:11:30.501346
+ED   43,0.00%,Hatem El-Gamasy,(Safe&Affordable),4,AD 58,2025-11-04_22:11:30.501346
+ED   43,0.00%,WRITE-IN,&nbsp,1,AD 58,2025-11-04_22:11:30.501346
+ED   44,0.00%,Farah N. Louis,(Democratic),393,AD 58,2025-11-04_22:11:30.501346
+ED   44,0.00%,Joshua Elijah Diaz,(Republican),5,AD 58,2025-11-04_22:11:30.501346
+ED   44,0.00%,Joshua Elijah Diaz,(Conservative),5,AD 58,2025-11-04_22:11:30.501346
+ED   44,0.00%,Hatem El-Gamasy,(Safe&Affordable),13,AD 58,2025-11-04_22:11:30.501346
+ED   44,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   45,0.00%,Farah N. Louis,(Democratic),323,AD 58,2025-11-04_22:11:30.501346
+ED   45,0.00%,Joshua Elijah Diaz,(Republican),11,AD 58,2025-11-04_22:11:30.501346
+ED   45,0.00%,Joshua Elijah Diaz,(Conservative),3,AD 58,2025-11-04_22:11:30.501346
+ED   45,0.00%,Hatem El-Gamasy,(Safe&Affordable),9,AD 58,2025-11-04_22:11:30.501346
+ED   45,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   46,0.00%,Farah N. Louis,(Democratic),175,AD 58,2025-11-04_22:11:30.501346
+ED   46,0.00%,Joshua Elijah Diaz,(Republican),4,AD 58,2025-11-04_22:11:30.501346
+ED   46,0.00%,Joshua Elijah Diaz,(Conservative),6,AD 58,2025-11-04_22:11:30.501346
+ED   46,0.00%,Hatem El-Gamasy,(Safe&Affordable),2,AD 58,2025-11-04_22:11:30.501346
+ED   46,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   47,0.00%,Farah N. Louis,(Democratic),42,AD 58,2025-11-04_22:11:30.501346
+ED   47,0.00%,Joshua Elijah Diaz,(Republican),2,AD 58,2025-11-04_22:11:30.501346
+ED   47,0.00%,Joshua Elijah Diaz,(Conservative),4,AD 58,2025-11-04_22:11:30.501346
+ED   47,0.00%,Hatem El-Gamasy,(Safe&Affordable),-,AD 58,2025-11-04_22:11:30.501346
+ED   47,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   64,0.00%,Farah N. Louis,(Democratic),172,AD 58,2025-11-04_22:11:30.501346
+ED   64,0.00%,Joshua Elijah Diaz,(Republican),6,AD 58,2025-11-04_22:11:30.501346
+ED   64,0.00%,Joshua Elijah Diaz,(Conservative),-,AD 58,2025-11-04_22:11:30.501346
+ED   64,0.00%,Hatem El-Gamasy,(Safe&Affordable),2,AD 58,2025-11-04_22:11:30.501346
+ED   64,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   66,0.00%,Farah N. Louis,(Democratic),-,AD 58,2025-11-04_22:11:30.501346
+ED   66,0.00%,Joshua Elijah Diaz,(Republican),-,AD 58,2025-11-04_22:11:30.501346
+ED   66,0.00%,Joshua Elijah Diaz,(Conservative),-,AD 58,2025-11-04_22:11:30.501346
+ED   66,0.00%,Hatem El-Gamasy,(Safe&Affordable),-,AD 58,2025-11-04_22:11:30.501346
+ED   66,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+ED   67,0.00%,Farah N. Louis,(Democratic),-,AD 58,2025-11-04_22:11:30.501346
+ED   67,0.00%,Joshua Elijah Diaz,(Republican),-,AD 58,2025-11-04_22:11:30.501346
+ED   67,0.00%,Joshua Elijah Diaz,(Conservative),-,AD 58,2025-11-04_22:11:30.501346
+ED   67,0.00%,Hatem El-Gamasy,(Safe&Affordable),-,AD 58,2025-11-04_22:11:30.501346
+ED   67,0.00%,WRITE-IN,&nbsp,-,AD 58,2025-11-04_22:11:30.501346
+Total,,Farah N. Louis,(Democratic),7270,AD 58,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Republican),201,AD 58,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Conservative),83,AD 58,2025-11-04_22:11:30.501346
+Total,,Hatem El-Gamasy,(Safe&Affordable),148,AD 58,2025-11-04_22:11:30.501346
+Total,,WRITE-IN,&nbsp,9,AD 58,2025-11-04_22:11:30.501346
+ED   21,0.00%,Farah N. Louis,(Democratic),354,AD 59,2025-11-04_22:11:30.501346
+ED   21,0.00%,Joshua Elijah Diaz,(Republican),26,AD 59,2025-11-04_22:11:30.501346
+ED   21,0.00%,Joshua Elijah Diaz,(Conservative),1,AD 59,2025-11-04_22:11:30.501346
+ED   21,0.00%,Hatem El-Gamasy,(Safe&Affordable),3,AD 59,2025-11-04_22:11:30.501346
+ED   21,0.00%,WRITE-IN,&nbsp,1,AD 59,2025-11-04_22:11:30.501346
+ED   23,0.00%,Farah N. Louis,(Democratic),186,AD 59,2025-11-04_22:11:30.501346
+ED   23,0.00%,Joshua Elijah Diaz,(Republican),9,AD 59,2025-11-04_22:11:30.501346
+ED   23,0.00%,Joshua Elijah Diaz,(Conservative),1,AD 59,2025-11-04_22:11:30.501346
+ED   23,0.00%,Hatem El-Gamasy,(Safe&Affordable),4,AD 59,2025-11-04_22:11:30.501346
+ED   23,0.00%,WRITE-IN,&nbsp,-,AD 59,2025-11-04_22:11:30.501346
+ED   24,0.00%,Farah N. Louis,(Democratic),182,AD 59,2025-11-04_22:11:30.501346
+ED   24,0.00%,Joshua Elijah Diaz,(Republican),11,AD 59,2025-11-04_22:11:30.501346
+ED   24,0.00%,Joshua Elijah Diaz,(Conservative),6,AD 59,2025-11-04_22:11:30.501346
+ED   24,0.00%,Hatem El-Gamasy,(Safe&Affordable),2,AD 59,2025-11-04_22:11:30.501346
+ED   24,0.00%,WRITE-IN,&nbsp,1,AD 59,2025-11-04_22:11:30.501346
+ED   25,0.00%,Farah N. Louis,(Democratic),160,AD 59,2025-11-04_22:11:30.501346
+ED   25,0.00%,Joshua Elijah Diaz,(Republican),17,AD 59,2025-11-04_22:11:30.501346
+ED   25,0.00%,Joshua Elijah Diaz,(Conservative),6,AD 59,2025-11-04_22:11:30.501346
+ED   25,0.00%,Hatem El-Gamasy,(Safe&Affordable),3,AD 59,2025-11-04_22:11:30.501346
+ED   25,0.00%,WRITE-IN,&nbsp,-,AD 59,2025-11-04_22:11:30.501346
+ED   26,0.00%,Farah N. Louis,(Democratic),270,AD 59,2025-11-04_22:11:30.501346
+ED   26,0.00%,Joshua Elijah Diaz,(Republican),11,AD 59,2025-11-04_22:11:30.501346
+ED   26,0.00%,Joshua Elijah Diaz,(Conservative),1,AD 59,2025-11-04_22:11:30.501346
+ED   26,0.00%,Hatem El-Gamasy,(Safe&Affordable),6,AD 59,2025-11-04_22:11:30.501346
+ED   26,0.00%,WRITE-IN,&nbsp,-,AD 59,2025-11-04_22:11:30.501346
+ED   31,0.00%,Farah N. Louis,(Democratic),134,AD 59,2025-11-04_22:11:30.501346
+ED   31,0.00%,Joshua Elijah Diaz,(Republican),12,AD 59,2025-11-04_22:11:30.501346
+ED   31,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 59,2025-11-04_22:11:30.501346
+ED   31,0.00%,Hatem El-Gamasy,(Safe&Affordable),7,AD 59,2025-11-04_22:11:30.501346
+ED   31,0.00%,WRITE-IN,&nbsp,2,AD 59,2025-11-04_22:11:30.501346
+ED   35,0.00%,Farah N. Louis,(Democratic),153,AD 59,2025-11-04_22:11:30.501346
+ED   35,0.00%,Joshua Elijah Diaz,(Republican),13,AD 59,2025-11-04_22:11:30.501346
+ED   35,0.00%,Joshua Elijah Diaz,(Conservative),2,AD 59,2025-11-04_22:11:30.501346
+ED   35,0.00%,Hatem El-Gamasy,(Safe&Affordable),12,AD 59,2025-11-04_22:11:30.501346
+ED   35,0.00%,WRITE-IN,&nbsp,-,AD 59,2025-11-04_22:11:30.501346
+Total,,Farah N. Louis,(Democratic),1439,AD 59,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Republican),99,AD 59,2025-11-04_22:11:30.501346
+Total,,Joshua Elijah Diaz,(Conservative),19,AD 59,2025-11-04_22:11:30.501346
+Total,,Hatem El-Gamasy,(Safe&Affordable),37,AD 59,2025-11-04_22:11:30.501346
+Total,,WRITE-IN,&nbsp,4,AD 59,2025-11-04_22:11:30.501346
