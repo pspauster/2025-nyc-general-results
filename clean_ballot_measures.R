@@ -57,6 +57,13 @@ walk(as.character(2:5),
      ~write_csv(coun_sum %>% filter(proposal_number==.x), paste0("analysis/proposal_", .x,"_results.csv"))
      )
 
+aff_hsg <- read_csv("analysis/tabula-NYHC-Tracker-2025-Apr2025.csv") %>% 
+  janitor::clean_names() %>% 
+  filter(rank_2014_24 != "RANK 2014-24") %>% 
+  mutate(total_2014_24 = as.numeric(str_remove_all(total_2014_24, ",")),
+         x2014_23 = as.numeric(str_remove_all(x2014_23, ",")),
+         average_total = if_else(x2014_23 >= 1844, "above average", "below average"))
+
 ballot_avg <- coun_sum %>% 
   filter(proposal_number %in% c("2","3","4")) %>% 
   group_by(CounDist) %>% 
@@ -65,9 +72,29 @@ ballot_avg <- coun_sum %>%
             total_no = sum(NO, na.rm = T),
             avg_yes = sum(YES, na.rm = T),
             avg_no = sum(NO, na.rm = T),
-            )
+            )%>% 
+  left_join(councilmembers, by = c("CounDist"="district")) %>% 
+  left_join(aff_hsg, by = c("CounDist" = "district"))
 
 write_csv(ballot_avg, "analysis/proposal_avg_result.csv")
+write_csv(ballot_avg %>% filter(average_total=="above average"), "analysis/proposal_avg_result_hsg_above.csv")
+write_csv(ballot_avg %>% filter(average_total=="below average"), "analysis/proposal_avg_result_hsg_below.csv")
+write_csv(ballot_avg %>% filter(political_party=="Democrat"), "analysis/proposal_avg_result_dem.csv")
+write_csv(ballot_avg %>% filter(political_party=="Republican"), "analysis/proposal_avg_result_rep.csv")
+
+ed_data_sum <- ed_data %>% 
+  filter(proposal_number %in% c("2","3","4")) %>% 
+  group_by(ed_clean) %>% 
+  summarize(YES = sum(votes[candidate=="YES"], na.rm = T),
+            NO = sum(votes[candidate=="NO"]),
+            reported = first(reported),
+            ad = first(as.numeric(str_sub(ed_clean, 1,2))),
+            ed = first(as.numeric(str_sub(ed_clean, 3,5)))) %>% 
+  mutate(percentage = YES/(YES+NO)*100,
+         passed = if_else(YES>NO,TRUE, FALSE)
+)
+
+write_csv(ed_data_sum, "analysis/proposal_avg_result_ed.csv")
 
 #pivot_wider(names_from = "candidate", values_from = "votes") %>% 
   
