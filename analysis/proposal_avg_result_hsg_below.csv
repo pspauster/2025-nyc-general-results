@@ -2,7 +2,7 @@ CounDist,average,total_yes,total_no,avg_yes,avg_no,name,borough,political_party,
 1,57.464211493351065,72540,53689,72540,53689,Christopher Marte,Manhattan,Democrat,21*,Christopher Marte,1489,341,1830,below average
 10,64.28098774347319,68119,37808,68119,37808,Carmen De La Rosa,Manhattan,Democrat,23,Carmen De La Rosa,1523,132,1655,below average
 12,75.88503062418319,59413,18864,59413,18864,Kevin C. Riley,Bronx,Democrat,28,Kevin Riley,710,312,1022,below average
-13,51.62635134293716,47767,44765,47767,44765,Kristy Marmorato,Bronx,Democrat,38,Kristy Marmorato,369,115,484,below average
+13,51.62635134293716,47767,44765,47767,44765,Kristy Marmorato,Bronx,Republican,38,Kristy Marmorato,369,115,484,below average
 19,35.98144949189525,41049,73064,41049,73064,Vickie Paladino,Queens,Republican,51,Vickie Paladino,51,7,58,below average
 2,60.595474369999124,89998,58514,89998,58514,Carlina Rivera,Manhattan,Democrat,37,Carlina Rivera,455,32,487,below average
 20,56.82832138403548,29721,22581,29721,22581,Sandra Ung,Queens,Democrat,39,Sandra Ung,328,32,360,below average
@@ -19,15 +19,15 @@ CounDist,average,total_yes,total_no,avg_yes,avg_no,name,borough,political_party,
 39,62.08917996213538,114985,70175,114985,70175,Shahana Hanif,Brooklyn,Democrat,24,Shahana Hanif,1221,321,1542,below average
 4,58.584860918785864,99234,70145,99234,70145,Keith Powers,Manhattan,Democrat,30,Keith Powers,710,9,719,below average
 43,46.71172686391261,20636,23547,20636,23547,Susan Zhuang,Brooklyn,Democrat,49,Susan Zhuang,37,31,68,below average
-44,24.87453234868565,21079,63661,21079,63661,Office of Council District 44,Brooklyn,Democrat,44,Simcha Felder,199,19,218,below average
+44,24.87453234868565,21079,63661,21079,63661,Simcha Felder,Brooklyn,Democrat,44,Simcha Felder,199,19,218,below average
 45,58.378459149756395,58193,41492,58193,41492,Farah N. Louis,Brooklyn,Democrat,29,Farah Louis,844,35,879,below average
 46,51.30716864192211,48966,46484,48966,46484,Mercedes Narcisse,Brooklyn,Democrat,47,Mercedes Narcisse,70,11,81,below average
-47,47.88804856150598,45967,50036,45967,50036,Justin Brannan,Brooklyn,Republican,20,Justin Brannan,1684,342,2026,below average
+47,47.88804856150598,45967,50036,45967,50036,Justin Brannan,Brooklyn,Democrat,20,Justin Brannan,1684,342,2026,below average
 48,34.294411171040096,28946,55489,28946,55489,Inna Vernikov,Brooklyn,Republican,41,Inna Vernikov,298,35,333,below average
 49,50.639363730774946,48452,47233,48452,47233,Kamillah Hanks,Staten Island,Democrat,33,Kamillah Hanks,690,22,712,below average
 5,59.44892581628726,110410,75321,110410,75321,Julie Menin,Manhattan,Democrat,36,Julie Menin,488,45,533,below average
 50,32.04270700216034,45174,95856,45174,95856,David Carr,Staten Island,Republican,43,David Carr,200,27,227,below average
-51,24.411410524048712,37728,116905,37728,116905,Office of Council District 51,Staten Island,Republican,48,Vacant,67,3,70,below average
+51,24.411410524048712,37728,116905,37728,116905,Frank Morano,Staten Island,Republican,48,Vacant,67,3,70,below average
 6,62.33606821869354,113100,68325,113100,68325,Gale A. Brewer,Manhattan,Democrat,30,Gale Brewer,843,0,843,below average
 7,65.721938198853465,93662,48821,93662,48821,Shaun Abreu,Manhattan,Democrat,34,Shaun Abreu,581,7,588,below average
 9,68.08732824293615,81233,38040,81233,38040,Yusef Salaam,Manhattan,Democrat,21*,Yusef Salaam,1594,236,1830,below average

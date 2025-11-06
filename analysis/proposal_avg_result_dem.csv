@@ -3,7 +3,6 @@ CounDist,average,total_yes,total_no,avg_yes,avg_no,name,borough,political_party,
 10,64.28098774347319,68119,37808,68119,37808,Carmen De La Rosa,Manhattan,Democrat,23,Carmen De La Rosa,1523,132,1655,below average
 11,60.06468443089293,60231,40045,60231,40045,Eric Dinowitz,Bronx,Democrat,14,Eric Dinowitz,2306,794,3100,above average
 12,75.88503062418319,59413,18864,59413,18864,Kevin C. Riley,Bronx,Democrat,28,Kevin Riley,710,312,1022,below average
-13,51.62635134293716,47767,44765,47767,44765,Kristy Marmorato,Bronx,Democrat,38,Kristy Marmorato,369,115,484,below average
 14,74.53449385435712,34720,11844,34720,11844,Pierina Ana Sanchez,Bronx,Democrat,7,Pierina Ana Sanchez,3469,1330,4799,above average
 15,75.15712231997357,34770,11481,34770,11481,Oswald Feliz,Bronx,Democrat,1,Oswald Feliz,6370,1336,7706,above average
 16,75.5115018978605,41588,13473,41588,13473,Althea Stevens,Bronx,Democrat,6,Althea Stevens,4435,591,5026,above average
@@ -35,9 +34,10 @@ CounDist,average,total_yes,total_no,avg_yes,avg_no,name,borough,political_party,
 41,68.94048472569892,50826,22879,50826,22879,Darlene Mealy,Brooklyn,Democrat,12,Darlene Mealy,3368,471,3839,above average
 42,72.34945249388187,46867,17903,46867,17903,Chris Banks,Brooklyn,Democrat,3,Chris Banks,5786,1439,7225,above average
 43,46.71172686391261,20636,23547,20636,23547,Susan Zhuang,Brooklyn,Democrat,49,Susan Zhuang,37,31,68,below average
-44,24.87453234868565,21079,63661,21079,63661,Office of Council District 44,Brooklyn,Democrat,44,Simcha Felder,199,19,218,below average
+44,24.87453234868565,21079,63661,21079,63661,Simcha Felder,Brooklyn,Democrat,44,Simcha Felder,199,19,218,below average
 45,58.378459149756395,58193,41492,58193,41492,Farah N. Louis,Brooklyn,Democrat,29,Farah Louis,844,35,879,below average
 46,51.30716864192211,48966,46484,48966,46484,Mercedes Narcisse,Brooklyn,Democrat,47,Mercedes Narcisse,70,11,81,below average
+47,47.88804856150598,45967,50036,45967,50036,Justin Brannan,Brooklyn,Democrat,20,Justin Brannan,1684,342,2026,below average
 49,50.639363730774946,48452,47233,48452,47233,Kamillah Hanks,Staten Island,Democrat,33,Kamillah Hanks,690,22,712,below average
 5,59.44892581628726,110410,75321,110410,75321,Julie Menin,Manhattan,Democrat,36,Julie Menin,488,45,533,below average
 6,62.33606821869354,113100,68325,113100,68325,Gale A. Brewer,Manhattan,Democrat,30,Gale Brewer,843,0,843,below average

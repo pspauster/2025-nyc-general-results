@@ -3,7 +3,7 @@ proposal_number,CounDist,YES,NO,percentage,passed,name,borough,political_party
 5,10,28135,6630,80.92909535452323,TRUE,Carmen De La Rosa,Manhattan,Democrat
 5,11,25250,7948,76.05879872281463,TRUE,Eric Dinowitz,Bronx,Democrat
 5,12,18933,6686,73.90218197431594,TRUE,Kevin C. Riley,Bronx,Democrat
-5,13,19635,10999,64.09544950055493,TRUE,Kristy Marmorato,Bronx,Democrat
+5,13,19635,10999,64.09544950055493,TRUE,Kristy Marmorato,Bronx,Republican
 5,14,11528,3650,75.95203584134931,TRUE,Pierina Ana Sanchez,Bronx,Democrat
 5,15,11598,3569,76.46864904068042,TRUE,Oswald Feliz,Bronx,Democrat
 5,16,13788,4290,76.26949883836708,TRUE,Althea Stevens,Bronx,Democrat
@@ -37,15 +37,15 @@ proposal_number,CounDist,YES,NO,percentage,passed,name,borough,political_party
 5,41,17695,6456,73.26818765268519,TRUE,Darlene Mealy,Brooklyn,Democrat
 5,42,14777,6197,70.45389529894155,TRUE,Chris Banks,Brooklyn,Democrat
 5,43,8892,5596,61.37493097736058,TRUE,Susan Zhuang,Brooklyn,Democrat
-5,44,8735,18234,32.389039267306906,FALSE,Office of Council District 44,Brooklyn,Democrat
+5,44,8735,18234,32.389039267306906,FALSE,Simcha Felder,Brooklyn,Democrat
 5,45,21195,11285,65.25554187192118,TRUE,Farah N. Louis,Brooklyn,Democrat
 5,46,18642,12599,59.67158541659998,TRUE,Mercedes Narcisse,Brooklyn,Democrat
-5,47,20913,10740,66.06956686569994,TRUE,Justin Brannan,Brooklyn,Republican
+5,47,20913,10740,66.06956686569994,TRUE,Justin Brannan,Brooklyn,Democrat
 5,48,13428,14102,48.77588085724664,FALSE,Inna Vernikov,Brooklyn,Republican
 5,49,19213,12530,60.526730302743914,TRUE,Kamillah Hanks,Staten Island,Democrat
 5,5,52820,9343,84.97015909785563,TRUE,Julie Menin,Manhattan,Democrat
 5,50,21806,25121,46.46791825601466,FALSE,David Carr,Staten Island,Republican
-5,51,19996,31473,38.8505702461676,FALSE,Office of Council District 51,Staten Island,Republican
+5,51,19996,31473,38.8505702461676,FALSE,Frank Morano,Staten Island,Republican
 5,6,52705,8170,86.57905544147843,TRUE,Gale A. Brewer,Manhattan,Democrat
 5,7,39900,7332,84.47662601626016,TRUE,Shaun Abreu,Manhattan,Democrat
 5,8,19918,5659,77.87465300856238,TRUE,Diana Ayala,Manhattan and Bronx,Democrat

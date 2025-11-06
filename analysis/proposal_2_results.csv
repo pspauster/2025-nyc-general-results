@@ -3,7 +3,7 @@ proposal_number,CounDist,YES,NO,percentage,passed,name,borough,political_party
 2,10,24067,11909,66.89737602846341,TRUE,Carmen De La Rosa,Manhattan,Democrat
 2,11,20367,13400,60.316285130452805,TRUE,Eric Dinowitz,Bronx,Democrat
 2,12,20559,5843,77.86910082569503,TRUE,Kevin C. Riley,Bronx,Democrat
-2,13,15789,15340,50.721192457194256,TRUE,Kristy Marmorato,Bronx,Democrat
+2,13,15789,15340,50.721192457194256,TRUE,Kristy Marmorato,Bronx,Republican
 2,14,12214,3574,77.36255383835825,TRUE,Pierina Ana Sanchez,Bronx,Democrat
 2,15,12116,3505,77.56225593752,TRUE,Oswald Feliz,Bronx,Democrat
 2,16,14474,4109,77.88839261690794,TRUE,Althea Stevens,Bronx,Democrat
@@ -37,15 +37,15 @@ proposal_number,CounDist,YES,NO,percentage,passed,name,borough,political_party
 2,41,17745,7089,71.45445759845373,TRUE,Darlene Mealy,Brooklyn,Democrat
 2,42,16259,5599,74.38466465367371,TRUE,Chris Banks,Brooklyn,Democrat
 2,43,7027,7911,47.04110322667024,FALSE,Susan Zhuang,Brooklyn,Democrat
-2,44,7141,21909,24.581755593803788,FALSE,Office of Council District 44,Brooklyn,Democrat
+2,44,7141,21909,24.581755593803788,FALSE,Simcha Felder,Brooklyn,Democrat
 2,45,20054,13582,59.62064454750862,TRUE,Farah N. Louis,Brooklyn,Democrat
 2,46,16480,15683,51.23900133693996,TRUE,Mercedes Narcisse,Brooklyn,Democrat
-2,47,15322,17033,47.35589553392057,FALSE,Justin Brannan,Brooklyn,Republican
+2,47,15322,17033,47.35589553392057,FALSE,Justin Brannan,Brooklyn,Democrat
 2,48,9462,19147,33.07350833653746,FALSE,Inna Vernikov,Brooklyn,Republican
 2,49,16212,15921,50.45280552702829,TRUE,Kamillah Hanks,Staten Island,Democrat
 2,5,36409,26136,58.21248700935327,TRUE,Julie Menin,Manhattan,Democrat
 2,50,14006,33346,29.578476093934785,FALSE,David Carr,Staten Island,Republican
-2,51,10981,40894,21.16819277108434,FALSE,Office of Council District 51,Staten Island,Republican
+2,51,10981,40894,21.16819277108434,FALSE,Frank Morano,Staten Island,Republican
 2,6,37665,23422,61.65796323276638,TRUE,Gale A. Brewer,Manhattan,Democrat
 2,7,32581,15592,67.63332157017416,TRUE,Shaun Abreu,Manhattan,Democrat
 2,8,19048,7235,72.472700985427835,TRUE,Diana Ayala,Manhattan and Bronx,Democrat

@@ -43,7 +43,13 @@ ed_data <- map_df(proposal_folders, ~read_data(.x, "ed")) %>%
   ) %>% 
   left_join(xwalk, by = c("ed_clean"="elect_dist"))
 
-councilmembers <- read_csv("https://data.cityofnewyork.us/resource/uvw5-9znb.csv", col_types = cols(.default = col_character()))
+councilmembers <- read_csv("https://data.cityofnewyork.us/resource/uvw5-9znb.csv", col_types = cols(.default = col_character())) %>% 
+  mutate(political_party=case_when(name == "Justin Brannan" ~ "Democrat",
+                                   name == "Kristy Marmorato" ~ "Republican",
+                                   T~ political_party),
+         name=case_when(name == "Office of Council District 44" ~ "Simcha Felder",
+                                   name == "Office of Council District 51" ~ "Frank Morano",
+         T ~ name))
 
 coun_sum <- ed_data %>% 
   group_by(proposal_number, CounDist) %>% 
