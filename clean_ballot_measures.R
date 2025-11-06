@@ -43,14 +43,19 @@ ed_data <- map_df(proposal_folders, ~read_data(.x, "ed")) %>%
   ) %>% 
   left_join(xwalk, by = c("ed_clean"="elect_dist"))
 
+councilmembers <- read_csv("https://data.cityofnewyork.us/resource/uvw5-9znb.csv", col_types = cols(.default = col_character()))
+
 coun_sum <- ed_data %>% 
   group_by(proposal_number, CounDist) %>% 
   summarize(YES = sum(votes[candidate=="YES"], na.rm = T),
             NO = sum(votes[candidate=="NO"])) %>% 
   mutate(percentage = YES/(YES+NO)*100,
-         passed = if_else(YES>NO,TRUE, FALSE))
+         passed = if_else(YES>NO,TRUE, FALSE)) %>% 
+  left_join(councilmembers, by = c("CounDist"="district"))
 
-write_csv(coun_sum %>% filter(proposal_number=="2"), "analysis/proposal_2_results.csv")
+walk(as.character(2:5),
+     ~write_csv(coun_sum %>% filter(proposal_number==.x), paste0("analysis/proposal_", .x,"_results.csv"))
+     )
 
 ballot_avg <- coun_sum %>% 
   filter(proposal_number %in% c("2","3","4")) %>% 

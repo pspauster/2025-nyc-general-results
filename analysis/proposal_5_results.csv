@@ -1,0 +1,53 @@
+proposal_number,CounDist,YES,NO,percentage,passed,name,borough,political_party
+5,1,35015,7110,83.12166172106825,TRUE,Christopher Marte,Manhattan,Democrat
+5,10,28135,6630,80.92909535452323,TRUE,Carmen De La Rosa,Manhattan,Democrat
+5,11,25250,7948,76.05879872281463,TRUE,Eric Dinowitz,Bronx,Democrat
+5,12,18933,6686,73.90218197431594,TRUE,Kevin C. Riley,Bronx,Democrat
+5,13,19635,10999,64.09544950055493,TRUE,Kristy Marmorato,Bronx,Democrat
+5,14,11528,3650,75.95203584134931,TRUE,Pierina Ana Sanchez,Bronx,Democrat
+5,15,11598,3569,76.46864904068042,TRUE,Oswald Feliz,Bronx,Democrat
+5,16,13788,4290,76.26949883836708,TRUE,Althea Stevens,Bronx,Democrat
+5,17,12931,4129,75.79718640093786,TRUE,Rafael Salamanca Jr.,Bronx,Democrat
+5,18,17836,6326,73.81839251717574,TRUE,Amanda Farías,Bronx,Democrat
+5,19,20990,16734,55.6409712649772,TRUE,Vickie Paladino,Queens,Republican
+5,2,42341,7251,85.37869011130827,TRUE,Carlina Rivera,Manhattan,Democrat
+5,20,12164,5093,70.48733847134497,TRUE,Sandra Ung,Queens,Democrat
+5,21,10142,3493,74.38210487715439,TRUE,Francisco Moya,Queens,Democrat
+5,22,31987,8162,79.670726543625,TRUE,Tiffany Cabán,Queens,Democrat
+5,23,24160,11383,67.97400331992235,TRUE,Linda Lee,Queens,Democrat
+5,24,19056,11647,62.06559619581148,TRUE,James F. Gennaro,Queens,Democrat
+5,25,20103,5372,78.91265947006869,TRUE,Shekar Krishnan,Queens,Democrat
+5,26,29114,6317,82.1709802150659,TRUE,Julie Won,Queens,Democrat
+5,27,21077,7561,73.59801662127244,TRUE,Dr. Nantasha Williams,Queens,Democrat
+5,28,16979,6326,72.85561038403776,TRUE,Adrienne E. Adams,Queens,Democrat
+5,29,24354,9129,72.73541797329989,TRUE,Lynn Schulman,Queens,Democrat
+5,3,44382,7316,85.84858215017988,TRUE,Erik Bottcher,Manhattan,Democrat
+5,30,21123,11853,64.0556768558952,TRUE,Robert F. Holden,Queens,Democrat
+5,31,16796,8931,65.2854977261243,TRUE,Selvena N. Brooks-Powers,Queens,Democrat
+5,32,18684,16323,53.37218270631588,TRUE,Joann Ariola,Queens,Republican
+5,33,41553,6196,87.02381201700558,TRUE,Lincoln Restler,Brooklyn,Democrat
+5,34,36033,6276,85.16627667872085,TRUE,Jennifer Gutiérrez,Brooklyn and Queens,Democrat
+5,35,45072,9974,81.8806089452458,TRUE,Crystal Hudson,Brooklyn,Democrat
+5,36,34026,7820,81.31243129570329,TRUE,Chi Ossé,Brooklyn,Democrat
+5,37,20345,4906,80.57106649241615,TRUE,Sandy Nurse,Brooklyn,Democrat
+5,38,17725,6769,72.3646607332408,TRUE,Alexa Avilés,Brooklyn,Democrat
+5,39,52602,8929,85.48861549462873,TRUE,Shahana Hanif,Brooklyn,Democrat
+5,4,48096,8784,84.55696202531645,TRUE,Keith Powers,Manhattan,Democrat
+5,40,29869,8873,77.09720716535027,TRUE,Rita Joseph,Brooklyn,Democrat
+5,41,17695,6456,73.26818765268519,TRUE,Darlene Mealy,Brooklyn,Democrat
+5,42,14777,6197,70.45389529894155,TRUE,Chris Banks,Brooklyn,Democrat
+5,43,8892,5596,61.37493097736058,TRUE,Susan Zhuang,Brooklyn,Democrat
+5,44,8735,18234,32.389039267306906,FALSE,Office of Council District 44,Brooklyn,Democrat
+5,45,21195,11285,65.25554187192118,TRUE,Farah N. Louis,Brooklyn,Democrat
+5,46,18642,12599,59.67158541659998,TRUE,Mercedes Narcisse,Brooklyn,Democrat
+5,47,20913,10740,66.06956686569994,TRUE,Justin Brannan,Brooklyn,Republican
+5,48,13428,14102,48.77588085724664,FALSE,Inna Vernikov,Brooklyn,Republican
+5,49,19213,12530,60.526730302743914,TRUE,Kamillah Hanks,Staten Island,Democrat
+5,5,52820,9343,84.97015909785563,TRUE,Julie Menin,Manhattan,Democrat
+5,50,21806,25121,46.46791825601466,FALSE,David Carr,Staten Island,Republican
+5,51,19996,31473,38.8505702461676,FALSE,Office of Council District 51,Staten Island,Republican
+5,6,52705,8170,86.57905544147843,TRUE,Gale A. Brewer,Manhattan,Democrat
+5,7,39900,7332,84.47662601626016,TRUE,Shaun Abreu,Manhattan,Democrat
+5,8,19918,5659,77.87465300856238,TRUE,Diana Ayala,Manhattan and Bronx,Democrat
+5,9,31109,8086,79.36981757877281,TRUE,Yusef Salaam,Manhattan,Democrat
+5,NA,1275166,465678,73.24987190121574,TRUE,NA,NA,NA
