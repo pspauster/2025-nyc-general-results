@@ -82,6 +82,31 @@ ballot_avg <- coun_sum %>%
   left_join(councilmembers, by = c("CounDist"="district")) %>% 
   left_join(aff_hsg, by = c("CounDist" = "district"))
 
+ballot_avg %>% 
+  filter(!is.na(CounDist)) %>% 
+  group_by(average_total) %>% 
+  summarize(total_yes = sum(avg_yes, na.rm = T),
+            total_no = sum(avg_no, na.rm = T),
+  ) %>% 
+  mutate(share = total_yes / (total_no+total_yes) *100)
+
+ballot_avg %>% 
+  filter(!is.na(CounDist)) %>% 
+  group_by(political_party) %>% 
+  summarize(total_yes = sum(avg_yes, na.rm = T),
+            total_no = sum(avg_no, na.rm = T),
+  ) %>% 
+  mutate(share = total_yes / (total_no+total_yes) *100)
+
+coun_sum %>% 
+  filter(proposal_number %in% c("2","3","4")) %>% 
+  left_join(aff_hsg, by = c("CounDist" = "district")) %>% 
+  group_by(proposal_number, average_total) %>% 
+  summarize(total_yes = sum(YES, na.rm = T),
+            total_no = sum(NO, na.rm = T),
+  ) %>% 
+  mutate(share = total_yes / (total_no+total_yes) *100)
+
 write_csv(ballot_avg, "analysis/proposal_avg_result.csv")
 write_csv(ballot_avg %>% filter(average_total=="above average"), "analysis/proposal_avg_result_hsg_above.csv")
 write_csv(ballot_avg %>% filter(average_total=="below average"), "analysis/proposal_avg_result_hsg_below.csv")
